@@ -1,0 +1,717 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanity of man at his best estate, and the vanity of Dives, his desire when at his worst viz. to have a preacher sent from the dead to his fathers house / discoursed of in two sermons, the first before the University of Oxon, the other at Ayno in Northamptonshire, at the anniversary for the foundation of the free-school there, by T.H., B.D., sometime rector of Souldern in Oxfordshire.</title>
+            <author>Hodges, Thomas, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70241</idno>
+            <idno type="STC">Wing H2325</idno>
+            <idno type="STC">ESTC R38792</idno>
+            <idno type="EEBO-CITATION">18112567</idno>
+            <idno type="OCLC">ocm 18112567</idno>
+            <idno type="VID">106839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1124:26 or 1720:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanity of man at his best estate, and the vanity of Dives, his desire when at his worst viz. to have a preacher sent from the dead to his fathers house / discoursed of in two sermons, the first before the University of Oxon, the other at Ayno in Northamptonshire, at the anniversary for the foundation of the free-school there, by T.H., B.D., sometime rector of Souldern in Oxfordshire.</title>
+                  <author>Hodges, Thomas, d. 1688.</author>
+               </titleStmt>
+               <extent>[4], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"July, 17. Imprimatur, G. Jane."</note>
+                  <note>Errata: p. 46.</note>
+                  <note>This item appears at reel 1124:26 as Wing H2326 (number cancelled in Wing 2nd ed.), and at reel 1720:10 as Wing H2325.</note>
+                  <note>Reproduction of originals in the Cambridge University Library and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXXIX, 5 --  Sermons.</term>
+               <term>Bible. --  N.T. --  Luke XVI, 30-31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106839:1"/>
+            <pb facs="tcp:106839:1"/>
+            <p>THE VANITY of MAN, At his beſt Eſtate, AND THE Vanity of Dives, His Deſire when at his Worſt, VIZ. To have a PREACHER ſent from the Dead to his Fathers Houſe.</p>
+            <p>Diſcourſed of In Two SERMONS, the Firſt before the Univerſity of <hi>Oxon,</hi> the other at <hi>Ayno</hi> in <hi>Northamptonſhire,</hi> at the Anniverſary for the Foundation of the Free-School there.</p>
+            <p>By <hi>T. H.</hi> B. D. Sometime Rector of <hi>Souldern</hi> in <hi>Oxfordſhire.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>
+                     <date>
+                        <hi>July,</hi> 17.</date> Imprimatur,</p>
+                  <closer>
+                     <signed>G. Jane</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.B.</hi> for <hi>Tho. Parkhurſt</hi> at the Bible and 3 Crowns in Cheapſide near Mercers Chappel, and at the Bible on London-Bridge, 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106839:2" rendition="simple:additions"/>
+            <pb facs="tcp:106839:2"/>
+            <head>To the much Honoured Mrs <hi>MARY FANE.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>THe two following Sermons, here humbly preſented into your hands, may have leave to beg if not pre<g ref="char:EOLhyphen"/>tend, a Title to your Patronage, The firſt having been made in a good meaſure, long ſince, upon occaſion of the death of that excellent perſon Sir <hi>Roger Townſhend</hi> Baronet, your <g ref="char:V">Ʋ</g>ncle; and now made ſeaſonable, by the late loſſe of your dear Husband, that worthy and nobly deſcen<g ref="char:EOLhyphen"/>ded Gentleman Mr <hi>Fane</hi> as alſo of your dear father Mr <hi>Cartwright,</hi> a great loſſe both to his Family and Coun<g ref="char:EOLhyphen"/>trey; your Husband deceaſing in the morning, and your Father about the Noon of his age. The ſecond Sermon, may plead for your acceptance alſo, upon this accompt, that it was not long ſince preached at <hi>Ayno,</hi> upon the Anniver<g ref="char:EOLhyphen"/>ſary for the foundation of the Free-ſchool there by your Grandmother and God-mother, Mrs <hi>Mary Cartwright,</hi> late Lady of that Manour: Madam, ſhould I be cenſured for this Addreſſe to you, your birth at <hi>Soulderne</hi> when I was Miniſter there, my Obligations to your Husbands Family, as alſo to your Father, Mother, and Grand<g ref="char:EOLhyphen"/>father <hi>Cartwright,</hi> with other of your Relations ſhall be my Apology.</p>
+            <pb facs="tcp:106839:3"/>
+            <p> So with my hearty prayers to God for you, that you may go on in the good ways of your educations, and that al<g ref="char:EOLhyphen"/>though you are left Husbandleſs, Fatherleſs, and Mo<g ref="char:EOLhyphen"/>therleſs, yet that neither you, nor yours, may ever be left Friendleſs, helpleſs, or comfortleſs, but that he would pleaſe to be a comforter, a Friend, a Father, a Husband to you, and that you may be the bleſſed of the Lord, and your off-ſpring with you, I humbly take leave and remain.</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>
+                  <hi>Your very humble ſervant</hi> Thomas Hodges,</signed>
+               <dateline>
+                  <date>June, 27th. 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106839:3"/>
+            <head>A SERMON Concerning the Vanity of man, even at his beſt eſtate.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalm 39.5.</bibl>
+                  <p>
+                     <hi>Verily, every man, at his beſt eſtate, is altogether Va<g ref="char:EOLhyphen"/>nitie, Selah.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>'<seg rend="decorInit">T</seg>Is uſual and uſeful, for Travellers to carry a<g ref="char:EOLhyphen"/>bout them Maps or draughts of the Countries through which they travel. <hi>We are all pilgrims and ſtrangers here</hi> (but travellers) <hi>as all our fa<g ref="char:EOLhyphen"/>thers were:</hi> For as they were, ſo are we in this world. Let me therefore commend unto you this <hi>Pſalm,</hi> to carry along with you in your boſomes, to have often in your eyes; It is a little map of the leſſer world, <hi>man;</hi> and, of the greater world, what it is or can be to man. 'Tis a true perfect map, drawn and coloured by the pen of the Royal prophet <hi>David,</hi> as his hand was held and guided by the Holy Ghoſt: 'Tis poſſible that it may (and my prayer is that it might) prove of ſingular uſe and benefit to us in this world; that we loſe not our way, that we loſe not our ſelves, in this forrein countrey.</p>
+            <p>T<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> text, 'tis the marrow and quinteſſence, 'tis the great leſ<g ref="char:EOLhyphen"/>ſon of this <hi>Pſalm,</hi> 'tis the ſum of the whole book of <hi>Eccleſiaſtes;</hi> 'T<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and propheſie of <hi>Solomons</hi> experience; 'Tis the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prophets text, upon which the ſon, the King-Preaent <hi>Solomon</hi> made after wards that Sermon or Comment, that
+<pb n="2" facs="tcp:106839:4"/>excellent piece, the book of <hi>Eccleſiaſtes.</hi> Here's <hi>magnum in parvo,</hi> much in a little, a deſcription of two <hi>Wordls</hi> in two or three <hi>Words;</hi> yea, here's the univerſe, <hi>All,</hi> as it were in <hi>Nothing,</hi> all briefly comprehended in this one word <hi>Vanitie.</hi>
+            </p>
+            <p>'Tis thought, it was <hi>Abſoloms</hi> conſpiracy that occaſioned <hi>Da<g ref="char:EOLhyphen"/>vids</hi> penning this Pſalm. <hi>David,</hi> before this, (when the houſe of <hi>Saul</hi> was layd in the duſt) thought, that ſurely his Mountain was ſo ſtrong that it could never be moved, but behold on a ſuddain, a viper in his own boſome, an <hi>Abſalom,</hi> that ſeeks the death of him, that gave him life: and after he had driven h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s father from his Royall palace and City, conſults to aſſemble together all <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> to whatſoever place or City whereſoever they could finde him, even to bring ropes to that City and to draw it into the ri<g ref="char:EOLhyphen"/>ver untill there ſhould not be one ſmall ſtone found there. 2. <hi>Sam.</hi> 17.12, 13.</p>
+            <p>And, now, the ſweet ſinger of <hi>Iſrael</hi> changes his tune to this ſad note in the text, <hi>Verily every man, at his moſt fined</hi> (or ſetled) <hi>eſtate is altogether Vanity, Selah.</hi>
+            </p>
+            <p>And, although we ſhould ſuppoſe or grant, as ſome do, that the prophet <hi>David</hi> uttered theſe words out of his impatience, yet the words, for the matter of them, hold forth the ſame truth with many other Scriptures, ſee <hi>Job.</hi> 14.1. and 16.22. and 34.20. <hi>Ec<g ref="char:EOLhyphen"/>cles.</hi> 9.12.1. <hi>Corinth.</hi> 7.29, 31. <hi>Pſal.</hi> 89.48. and '<hi>Pſa.</hi> 90 10. and eſpecially the 11th verſe of this <hi>Pſalm;</hi> where the ſame prophet repeats the ſame thing for ſubſtance, that he doth here; ſaying a<g ref="char:EOLhyphen"/>gain, <hi>Surely every man is vanity, Selah.</hi>
+            </p>
+            <p>And, if Kings and Princes and great gallants of the world, ſhould reply to the prophet ſome what like that of <hi>Feſtus</hi> to the Apoſtle <hi>Paul, Acts.</hi> 26.24.25. <hi>David, thou art beſide thy ſelf, much affliction hath made thee mad:</hi> the Prophet might return, in the like manner as the Apoſtle there did, <hi>I am not mad moſt noble Princes, but ſpeak forth the words of truth and ſoberneſse: Surely man is vanity: Adam</hi> is <hi>Enoſh</hi> or <hi>Abel, Abel, Enoſh, Benoni</hi> are fit names for every ſon of <hi>Adam: Every man</hi> is vanity high and low together, Greek and Barbarian, wiſe and unwiſe, bond and free.</p>
+            <p>Further, every man is <hi>altogether vanity.</hi> Every man, or all man, is all vanity. Man was a model and compendium of the worlds creation, in its <hi>perfection</hi> and <hi>beauty;</hi> ſo he is now too, of it in its <hi>corruption</hi> and <hi>vanity: Cum inanimis,</hi> ſaith one, <hi>ſubja<g ref="char:EOLhyphen"/>cet
+<pb n="3" facs="tcp:106839:4"/>mutationi, corruptioni: cum animatis, alterationi, morti: cum ſentientibus, laetitiae, moerori: cum Angelis, inconſtantiae,</hi> &amp;c. <hi>i. e.</hi> Man, like the inanimate creatures, or thoſe creatures which are without life, is ſubject to change, and corruption; like animate or living creatures, he is ſubject to alteration, and death: like ſenſitive creatures, he is ſubject to joy, and ſorrow; and like the Angels, (namely thoſe that left their firſt ſtation,) he is ſub<g ref="char:EOLhyphen"/>ject to inconſtancy, and folly.</p>
+            <p>Laſtly, every man <hi>at his beſt eſtate,</hi> at his moſt fixed, moſt ſet<g ref="char:EOLhyphen"/>led eſtate, when living, when moſt lively, luſty, healthy, rich, honourable, when moſt happy, parmanent, (for the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is very diverſly rendred by tranſlators) even, then, is he al<g ref="char:EOLhyphen"/>together vanity: <hi>omni ex parte,</hi> or <hi>quoad omnia,</hi> or <hi>modis omni<g ref="char:EOLhyphen"/>bus, vaniſſimus eſt,</hi> as ſome interpret. Mens lives are uncertain, their afflictions are unſatiable and diſorderly, their enjoyments tranſitory. their beauty, their greatneſs, and glory, all fading and periſhing: ſo vain a thing is man. Oh that he would conſider it, <hi>Selah.</hi>
+            </p>
+            <p>I ſhall take my riſe from theſe words to ſhew you,
+<list>
+                  <item>
+                     <label>1.</label> The creatures vanity, and,</item>
+                  <item>
+                     <label>2.</label> The Lord of the creatures vanity: to ſhew you your own faces, your own hearts, your all, in a true glaſſe; only have patience a while to behold; come and ſee; and then, oh then, go not away and forget not preſently what manner of men and women ye were.</item>
+               </list>
+            </p>
+            <p>In the handling of this text I lay upon my ſelf no other burden then theſe neceſſary things.</p>
+            <list>
+               <item>
+                  <label>1.</label> To ſhew you, what is, or may be imploed under this word <hi>Vanity.</hi>
+               </item>
+               <item>
+                  <label>2.</label> To prove, that <hi>every man is altogether Vanity.</hi>
+               </item>
+               <item>
+                  <label>3.</label> To diſcover the Original and <hi>foundation</hi> of this floud of vani<g ref="char:EOLhyphen"/>ty, which overflows the whole world, and from which not ſo much as eight perſons, nay no one perſon ſince the fall, was ever ſaved: namely the cauſe of this vanity upon all fleſh.</item>
+               <item>
+                  <label>4.</label> To propound and point out to you the <hi>way and means of be<g ref="char:EOLhyphen"/>ing delivered</hi> out of this vanity, wherein mankinde is involved and plunged.</item>
+            </list>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>Firſt, of the firſt, what is or may be implyed in the word <hi>Va<g ref="char:EOLhyphen"/>nity.</hi>
+               </p>
+               <p n="1">
+                  <pb n="4" facs="tcp:106839:5"/> 1. A thing is ſaid to be vain or vanity, which hath but a little being, or which hath not long a being: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the word for vanity, is uſed to ſignifie a vapour; and ſo that in <hi>Eccleſiaſtes</hi> is by ſome tranſlated, (inſtead of <hi>Vanit as Vanitatum, omnia vanitas,) vapor vaporum omnia vapor:</hi> and <hi>what is our life,</hi> faith the Apoicle <hi>James, cha:</hi> 4.14. <hi>It is even a vapour, which appeareth for a little time,</hi> ſoon vaniſheth away. Our being is but a borrowed, a de<g ref="char:EOLhyphen"/>pendent being; and we are but of <hi>ſhort continuance</hi> here in this world. The light of our lives, at beſt, is like the light of the Moon, a borrowed light; or like the light, or blaze of a fiery meteor fading and vaniſhing, which is ſoon our or extinct. And this worthleſneſs and great uncertainty, or fleeing and vaniſh<g ref="char:EOLhyphen"/>ing eſtate of man in this world, may ſeem to be particularly aimed at by the Prophet in this <hi>Pſalm,</hi> and this place.</p>
+               <p n="2">2. <hi>A thing</hi> may be ſaid to be vain, or vanity which is <hi>empty</hi> or void. And here <hi>emptineſs</hi> is not oppoſed barely to <hi>entity</hi> and <hi>ful<g ref="char:EOLhyphen"/>neſs,</hi> but to <hi>ſolidity</hi> and <hi>ſatisfaction:</hi> we ſay a verſel is empty, although it be full of air; a bladder, blown full of wind, may be ſaid to be empty and vain; ſuch a vanity is man (ſince the fall by ſin, and before he is raiſed again by grace, he is an empty veſſel, void of any ſolid ſatisfying good: he is an earthen <hi>Pitcher,</hi> and an <hi>empty Pitcher:</hi> (indeed, once, he had a lamp in his pitcher:) he is a bladder, blown full of winde, full of vain conceits and ima<g ref="char:EOLhyphen"/>ginations; and ſo the more full, the more empty, and the more vanity. And as for mans life here, if is full of trouble, void of true ſatisfaction and happineſs in our moſt flouriſhing, and in our beſt eſtate.</p>
+               <p n="3">3. A thing may be ſaid vain, which is unprofitable, and which is not able to help: of little or no value, or weight; that's light upon the ballance; <hi>lighter then vanity</hi> is the uſual Scripture<g ref="char:EOLhyphen"/>phraſe. And truly to every ſon of man in his beſt eſtate may be ſaid, as to <hi>Belſhazzar, Mene, Mene, Tekel,—Thou art weighed, and found too light.</hi> Thou art but as the duſt of the ballance com<g ref="char:EOLhyphen"/>pared with thy Lord and maker; and thon art to him an unprofi<g ref="char:EOLhyphen"/>table ſervant when thou haſt done thy beſt: yea thou art a bro<g ref="char:EOLhyphen"/>ken-ſtaff, a vain thing to be truſted unto. Hear what this Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> ſaith to this purpoſe, <hi>Pſal.</hi> 62.9. <hi>Surely men of low degree are vanity, and men of high degree are a lye:</hi> to be laid in the ballance, they are <hi>altogether lighter then vanity.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:106839:5"/>
+               <head>II.</head>
+               <p>The ſecond thing propounded to be ſhewed is, that every man is vanity. And here I ſhall endeavour the diſcovery of this vanity four ways.</p>
+               <p n="1">1. I ſhall ſhew that man is vanity ſimply and abſolutely conſi<g ref="char:EOLhyphen"/>dered; without compariſon, without relations.</p>
+               <p n="2">2. That man is vanity if he be compared with his maker; his age is nothing unto God, his being is nothing; laid in the bal<g ref="char:EOLhyphen"/>lance, he is altogether lighter then vanity.</p>
+               <p>3ly. That man is vanity conſidered relatively; or, that there is vanity in all relations betwixt man and man.</p>
+               <p>4ly. That man is vanity cauſally; that is, that he is the cauſe of the vanity in the inferiour creatures; the cauſe wherefore the creature is made ſubject unto vanity: <hi>I</hi> intend to inſiſt more large<g ref="char:EOLhyphen"/>ly upon the firſt of theſe, and to touch more lightly upon the three latter.</p>
+               <p n="1">1. If we conſider man ſimply and abſolutely; he is a maſſe of vanity, ſince the fall: his <hi>Eſse,</hi> his <hi>Operari,</hi> his <hi>Poſſidere,</hi> are all vani<g ref="char:EOLhyphen"/>ty: man, <hi>I</hi> ſay, in what he <hi>is,</hi> what he <hi>doth,</hi> what he <hi>hath,</hi> is va<g ref="char:EOLhyphen"/>nity, or temper'd and mixed with vanity; And of theſe in order.</p>
+               <p n="1">1. There is abundance of vanity in what he is; both in the fa<g ref="char:EOLhyphen"/>culties of his ſoul, and alſo in the perfections of his body.</p>
+               <p n="1">1. <hi>I</hi> ſhall begin with the faculties of his ſoul, and therein,</p>
+               <p n="1">1. With the <hi>underſtanding.</hi>
+               </p>
+               <p n="1">1. There is vanity of vanity, or <hi>emptineſse;</hi> a great want of knowledge, in the knowing part of man. In the underſtanding of man, little underſtanding of God; <hi>in Greece,</hi> ye know, the eye of the world, and in <hi>Athens</hi> the eye of <hi>Greece,</hi> there was an Al<g ref="char:EOLhyphen"/>tar <hi>to the unknown God;</hi> and if the eye of the ſoul be darkneſs, how great muſt needs the darkneſſe of the ſoul be. And there is not only emptineſſe of the knowledge of God, and divine Myſte<g ref="char:EOLhyphen"/>ries, but likewiſe there's much ignorance of Natures ſecrets: The worlds grandees for wiſdome are but like bats and moles, very blinde to the diſcerning the myſteries of nature.</p>
+               <p n="2">2. Again, there is in mans underſtanding, the vanity of Muta<g ref="char:EOLhyphen"/>bility and <hi>inconſtancy:</hi> the ſame underſtanding gives a different light at diverſe times; It's like a glaſſe that repreſents things di<g ref="char:EOLhyphen"/>verſly, or contrarily, at ſeveral times, we judge of things vari<g ref="char:EOLhyphen"/>ouſly in health, and in ſickneſſe; in proſperity, and adverſity; in life, and when we are ready to dye; before and after we have enjoyed them.</p>
+               <p n="3">
+                  <pb n="6" facs="tcp:106839:6"/> 3. There's the vanity of vanity in the underſtanding, <hi>i. e.</hi> a knowledge of vain things more then of thoſe which can profit us: men drive a great trade of vanity; their heads are uſually like ſome pedlars ſtalls, full of toys and trifles and vanities. Our underſtandings, before we are again enlightned from above, are buſied about ſmaller matters, are tithing mint and cummin: but the great things of the law are accounted ſtrange things, are ſtran<g ref="char:EOLhyphen"/>gers, are not known there.</p>
+               <p n="2">2. There is vanity in the will.</p>
+               <p n="1">1. It wills foliſhly, it wills things not good, not convenient: inſtead of a fiſh a ſtone, inſtead of bread a ſcorpion, poyſon in<g ref="char:EOLhyphen"/>ſtead of food and Phyſick. If God will undo a man quickly, he lets him undo himſelf, lets him have his own will.</p>
+               <p n="2">2. Again, the will wills <hi>ineffectually.</hi> It wills many things con<g ref="char:EOLhyphen"/>trary to the divine will, and ſo wills in vain; wills and cannot obtain.</p>
+               <p n="3">3. Further, it wills and wills not: it wills mutably; and that is its vanity and infirmity: We are like men in a feaver, or like little children; now we will have one thing and anon another; we are not ſatisfied; we will we know not what. Our vain wills are blown about with every blaſt of vanity: Yet laſtly, the will ofttimes wills wilfully, impetuouſly, violently: 'tis almoſt al<g ref="char:EOLhyphen"/>ways in motion, though a kinde of palſey motion which pro<g ref="char:EOLhyphen"/>ceeds from its infirmity and vanity.</p>
+               <p n="3">3. There's vanity in the <hi>affections.</hi>
+               </p>
+               <p n="1">1. They are always buſyed, and yet alway idle; like chil<g ref="char:EOLhyphen"/>dren, playing in the market-place of the world, when they ſhould be labouring in Gods vineyard: like <hi>Martha, troubled about many things, but one thing is neceſsary.</hi> Our affections had rather, like the <hi>Iſraelites,</hi> be ſcattered all up and down the <hi>Egypt</hi> of the world, to gather ſtraw and ſtubble, to make brick to build Cities for the great <hi>Pharach,</hi> the devil, then to follow <hi>Moſes</hi> or <hi>Jeſus,</hi> towards the heavenly <hi>Canaan</hi>
+               </p>
+               <p>Again 2. There is in our affections the vanity of mutability, they are conſtant only in inconſtancy.</p>
+               <p>4ly, There's vanity in the <hi>memory:</hi> our memories, like the ſtream, carry down with them light matters, but lets gold and ſilver, and the more precious things ſink to the bottom; 'tis a ſieve of vanity, it lets go the good corn, and returns the droſs and chaff of vanity; 'tis a crack'd ciſtern which lets out pure Chryſtal
+<pb n="7" facs="tcp:106839:6"/>water, and retains only mud and dirt.</p>
+               <p n="5">5. Laſtly, there's vanity in the <hi>Imagination:</hi> the fancy is the Arch limner of vain ſhaddows, and diſquiets it ſelf in vain: this is the houſe and ſhop of vanity, here dwells, and here works vanity night and day; here many chambers of imagery worſe and worſe, are in every mans fancy before regeneration.</p>
+               <p n="2">2. And then as there is vanity in the powers of the minde, ſo in the perfections of the body: bodily health, ſtrength, agility are not free from vanity: they are vaniſhing, periſhing things; ſoon gone, of ſhort continuance: God puts no truſt in the legs of a man, neither in the ſtrength nor ſwiftneſſe of any man; ſo let not us lean too much upon theſe pillars; theſe ſtrong men ſhall one day bow themſelves, neither ſhall any man reſcue himſelf or his brother, from the arreſt of death: 'tis worth our taking notice of, that which is obſerved by learned Mr <hi>Mede</hi> in his <hi>Diatriba</hi> upon <hi>Prov.</hi> 21.16. that Hell is ſet out to us, in the Old Teſtament, by this expreſſion, <hi>the place of the Gyants.</hi>
+               </p>
+               <p>And as for our health, (ſet aſide innumerable caſualties and the principle of mortality within,) it hath 300 cremies, <hi>viz.</hi> ſo many diſeaſes, to encounter it; and our liableneſſe to be ſpoyled by theſe is part of our vanity. And thus much for the vanity of man in what he is, the vanity of his nature.</p>
+               <p n="2">2. As man is vain in his nature, (in the ſaculties of his ſoul, and perfections of his body,) ſo likewiſe in his <hi>operations.</hi>
+               </p>
+               <p n="1">1. In his thoughts, thoſe inward works of the ſoul: the ſoul is a mint, and an Exchange of vain thoughts. Mans heart in thinking, runs like a ſwift Dromedary up and down the world, and ſnuffeth up the winde, <hi>vanity,</hi> every where: oh what a ſtorehouſe of fooliſh, deceitful, ſinful, and ſo of vain thoughts, is every one of our hearts! Oh, how long, how long ſhall vain thoughts be minded by us, be lodged in us, be hid within us, and the precious thoughts of God, and Jeſus Chriſt, ſtand with<g ref="char:EOLhyphen"/>out and have not where to lay their heads!</p>
+               <p n="2">2. There's vanity in mens <hi>words,</hi> and communication: mens words are winde, and ſometimes, like breath from corrupt lungs, they are rotten, putrid, unſavoury words our mouths are an open Sepulcher, which ſends forth a ſtinking favour, we may ſay to every natural man, of his words, <hi>thou ſayeſt, but they are but vain words,</hi> vain becauſe uſeleſſe;, not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not for uſe becauſe not for edification: they are idle words, unprofitable
+<pb n="8" facs="tcp:106839:7"/>words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not working words. Gods word is ſincere milk, profitable for nouriſhment: mans words are like foam and froth, vain and unprofitable, for the moſt part; and ſometimes, we ſpit out our venome in one anothers faces whilſt we talk toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="3">3. The <hi>Actions</hi> of a man whilſt in his natural condition are vanity. His <hi>natural</hi> actions, his eating, drinking, ſleeping, <hi>&amp;c.</hi> are in vain, becauſe not done to the glory of God. His <hi>moral</hi> actions, his acts of civil juſtice, <hi>&amp;c.</hi> although they be good for the matter of them, yet they are done from a vain principle of inordinate ſelf-love, or in a vain manner, and to a wrong end, for vain-glory: and therefore cal'd by the father, but—<hi>ſplendida peccata,</hi> glittering ſins. And laſtly, his <hi>religious</hi> actions, his faſt<g ref="char:EOLhyphen"/>ing, praying, worſhipping, are mixed with much vanity: God may ſay to them, <hi>bring no more vain oblations: to what pur<g ref="char:EOLhyphen"/>poſe is the multitude of your ſacriſices and ſervices?</hi> The very Gods of the nations are Idols, are vanity, and lyes, in Scripture account; and therefore their religion and worſhip muſt needs be ſalſe and vain. A natural man whether he eats or drinks, or whatſoever he does, I may ſay to him, <hi>he ſows the wind, and ſhall reap the whirl winde; he conceives vanity and ſhall bring forth a lie,</hi> ſhall at laſt be diſappointed of his expectation: <hi>Surely man walketh in a vain ſhew or ſhadow, dum unum imaginatur &amp; cogitat, &amp; aliud ſuccedit;</hi> whileſt he deſignes one thing, another ſuc<g ref="char:EOLhyphen"/>ceeds; ſo the next verſe to the text is expounced.</p>
+               <p>And thus much concerning the vanity of mans nature, and the vanity of actions or operations, his vanity in what he is and what he does.</p>
+               <p n="3">3. Laſtly, there is a vanity alſo in what a man hath; the goods of this world which he hath in poſſeſſion are alſo vanity. The Heathens uſed to call theſe outward good things, <hi>bona for<g ref="char:EOLhyphen"/>tuna,</hi> goods of fortune: they thought them ſubject to change and vanity; as undable as a wheel, up and down; here now, and ſoon paſſed away in a moment, in the twinkling of an eye. Riches, Honours, Pleaſures, all are vanity: great places, great palaces, delicious fare, gorgeous attire, a long train of attendants, all theſe are vanity, and will be found ſo in the uſing.</p>
+               <p n="1">1. Theſe are vain things, which cannot profit them that have them, as they look to be benefited by them. R<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ches are thorns, which are wounding, tearing things: they tear off the fleece,
+<pb n="9" facs="tcp:106839:7"/>inſtead of affording ſhelter, many times; and not only the fleece, but skin and fleſh; and our very hearts are rent and torn away after them.</p>
+               <p n="2">2. Honours, and great places, <hi>&amp;c.</hi> they are vanity; theſe things are winde, apt to make men that have them to ſwell above their meaſure: hence ſo many quarrels for elbow-room in the world: the narrow way to heaven is not broad enough for many great ones; they muſt be allowed a greater latitude: and the great places many have, are not great enough for their ſpirits; and this is vanity.</p>
+               <p n="3">3. And as for pleaſures, they are vain things which periſh in the uſing; ſhort ſweets, and oft, bitter ſweets: all pleaſures are bu t vanity, and ſinful pleaſures are, or one day will prove, vexation of ſpirit: <hi>Momentaneum eſt quod delectat, aeternum quod cruciat,</hi> what a hell is it to think, that a moment hath ſwallow<g ref="char:EOLhyphen"/>ed up that pleaſure which can never return, and if not prevented of in time, will inevitably bring eternal damnation.</p>
+               <p n="4">4. All theſe outward good things are vain, there is no ſatisfy<g ref="char:EOLhyphen"/>ing good in them; happineſſe is not to be found in theſe enjoy<g ref="char:EOLhyphen"/>ments. Can a man <hi>gather grapes of thorns, or figs of thiſtles?</hi> no more can we gather happineſſe from the creatures. Theſe whilſt enjoyed, are not the ſouls good things. He was a fool that thought ſo: and this ſaying was his folly; and whereever the Goſpel ſhall be preached, this his vanity and folly ſhall be remembred, <hi>Luke.</hi> 12. the ſoul cannot thrive on theſe husks; not on the winde, like <hi>Ephraim;</hi> or on the air, like the <hi>Chamelion.</hi> The heart of the wicked which feeds on winde or air, is little worth. It was well ſaid by a Reverend Divine, that theſe things,
+<note place="margin">Dr. <hi>Wh.</hi>
+                  </note> they are but half<g ref="char:EOLhyphen"/>proviſion, proviſion (namely) for the body only, and that but for this ſtate, for this life, after wards the body will have no uſe of them.</p>
+               <p n="5">5. Again, theſe things they are for uſe rather then enjoyment, even whilſt we have them; and the time of our uſing them is but ſhort, <hi>the time is but ſhort,</hi> faith the Scriptures: God that wheels about the heavens, and ſpins out time for thee, (as is excellently expreſſed by a reverend Author,) ere long will out the thread of thy time, the thred of thy life (which is, for the moſt part, ſpun out in a thred of vanity) and at laſt will ſet fire on, and burn the wheel it ſelf, yea, time ſhall be no more. And therefore as our life in relation to its comforts, is vanity, ſo in reſpect of its con<g ref="char:EOLhyphen"/>tinuance
+<pb n="10" facs="tcp:106839:8"/>alſo, 'tis a vapour, a bubble, a ſhadow, a tale, a dream. Childhood and youth are <hi>vanity</hi> and old-age often proves <hi>vexa<g ref="char:EOLhyphen"/>tion of ſpirit.</hi>
+               </p>
+               <p>And thus we have ſhewed you hitherto how vain a thing is man abſolutely conſidered, in what he is, (his nature, the faculties of his ſoul, and the perfections of his body;) in what he <hi>doth,</hi> in what he <hi>hath,</hi> or can have of this world, ſo vain a thing is man taken abſolutely.</p>
+               <p n="2">2. We are to conſider him in the next place <hi>comparatively,</hi> with reſpect to his maker; and ſo the whole maſſe and lump of man<g ref="char:EOLhyphen"/>kinde, they are lighter then vanity, and leſſe then nothing, <hi>Eſai.</hi> 40 17.</p>
+               <p n="3">3. Nor can the ſons of men combine together, by their relati<g ref="char:EOLhyphen"/>ons, to ſecure themſelves from vanity. Let them joyn hand in hand to build a Tower to reach to the skys, to keep themſelves from being overflown with the deluge of vanity; alas! this their attempt and fancy would prove a vanity of vanities; there's a vanity in being alone, and there's a vanity in company, ſince ſin came there: there's diviſion now in our greateſt union.</p>
+               <p>The relation betwixt friends hath this vanity oft attending it; men will love, <hi>tanquam aliquando oſuri:</hi> and the hatred where<g ref="char:EOLhyphen"/>with they will hate afterwards, ſhall be greater then the love where with they loved us.</p>
+               <p>In relation 'twixt man and wife, there's vanity; and, often<g ref="char:EOLhyphen"/>times, vexation of ſpirit. Yea, in the ſociety and communion of Saints, whilſt they are in the body, there are diſguſts and differences; in judgment firſt, and then in affection: the ſociety of the Saints, I acknowledge, is <hi>New Jeruſalem, come down from heaven;</hi> yet not alway a city: Uanity within it ſelf is the beſt of all ſocieties; yet vanity will attend Saints, where-ever they go, till they are uncloathed of theſe bodyes; whilſt they are in the body, vanity as a ſhadow waits on them.</p>
+               <p n="4">4. As man is vanity both conſidered abſolutely, in himſelf, and comparatively to his maker, and alſo relatively conſidered in his ſeveral ſtations, ſo is he all vanity cauſally, that is, he is the cauſe or ground of that vanity, which is ſeen in the inferiour creatures; According to that <hi>Gen.</hi> 3 17, 18. <hi>Curſed is the earth for thy ſake,</hi> &amp;c. <hi>Thorns and thiſtles ſhall it bring forth to thee,</hi> &amp;c. And the like is implyed, <hi>Rom.</hi> 8.19, 20, 21, 22. But of this I ſhall ſay no more in this place, becauſe I have further occaſion
+<pb n="11" facs="tcp:106839:8"/>to ſay more of it in the third General.</p>
+               <p>And thus having ſo far explained the main aim of the text, for further proof and amplification of the vanity in man, and the creatures vanity unto man, take but theſe 3 following De mon<g ref="char:EOLhyphen"/>ſtrations.</p>
+               <p n="1">1. Take the Judgement of God himſelf, <hi>Eſai.</hi> 40.17. Hear what he ſaith there of all nations, <hi>all nations before him are as no<g ref="char:EOLhyphen"/>thing, and they are counted to him leſse then nothing, and vanity,</hi> yea, the choiceſt pieces of the nations are no better, <hi>v.</hi> 23. <hi>he bringeth the princes to nothing, he maketh the Judges of the earth as vanity:</hi> and <hi>ch.</hi> 41 v. 29. <hi>Behold they are all vanity, their works are nothing, and ſo are their thoughts, Pſal.</hi> 94.11. v. <hi>The Lord knoweth the thoughts of man, that they are vanity.</hi>
+               </p>
+               <p n="2">2. Take the Judgment of good men, great men, and Prophets, and wife men; of <hi>David,</hi> and <hi>Solomon:</hi> we have the prophet <hi>Davids</hi> eſtimate, the <hi>man after Gods own heart</hi> in the text; and again, <hi>v.</hi> 11. of this <hi>Pſalm;</hi> and a third time, <hi>Pſalm.</hi> 62.9. <hi>Surely men of low degree are vanity, and men of high degree are a lye;</hi> they are lighter then vanity. And as for <hi>Solomon,</hi> he is a witneſſe beyond all exception, one that had power, and wealth, and wit, and will, to extract the beſt ſpirits and the quinteſſence of all the good things in this world; and did actually make ex<g ref="char:EOLhyphen"/>periment of all; witneſſe his <hi>Eccleſiaſtes:</hi> and laſtly, he weighed all in Gods ballance, tried all by Gods ſtandard, hath Gods <hi>Probatum eſt</hi> to his tryal, and the Holy Ghoſts <hi>Imprimatur</hi> to his book; the ſum of all which is briefly comprehended in this ſay<g ref="char:EOLhyphen"/>ing, <hi>vanity of vanities, ſaith the Preacher, all is vanity and vex<g ref="char:EOLhyphen"/>ation of ſpirit.</hi> King <hi>Solomon</hi> was the great critick-Alchymiſt of the world, who ſpent many years to diſtil the world, but could not extract a drop of happineſſe out of it, but ſeas of vanity, boundleſſe and bottomleſſe, wherein he had been drowned, had not Jeſus Chriſt lent him his hand, had not he walked on this ſea, and trod under foot all theſe vanities, and come to Jeſus his Saviour.</p>
+               <p n="3">3. Study your own experiences, reade over the book of your lives that book of four leaves, childhood, youth, manhood, old age, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you have lived ſo long) and you'l finde it written <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and without, <hi>vanity of vanities, all is vanity.</hi> You may <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and reade <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if God give you grace to open the book and look thereon. But if ye ſhould altogether refuſe to reade now, al<g ref="char:EOLhyphen"/>though
+<pb n="12" facs="tcp:106839:9"/>it might ſave your lives, yea, the life of your ſouls, yet know there are three days, wherein this truth will ſtare you in the face, and will be like the hand-writing on the wall to <hi>Bel<g ref="char:EOLhyphen"/>ſhazzar;</hi> the former two days are dark days, days of darkneſs and gloomineſſe, ſpoken of by <hi>Joel, ch.</hi> 2. and by <hi>Solomon Eccles.</hi> 12. <hi>the day of diſtreſse and miſery,</hi> and the <hi>day of death;</hi> and you'l reade that in the dark, probably, which in the ſun-ſhine of proſ<g ref="char:EOLhyphen"/>perity you could not, or would not do; and this is your vanity: the third and laſt day is a day of thunder and lightning, the great day of Judgement, and then, if you were blinde till then, (which yet you ſhall not be,) your eyes ſhall then be opened, and you ſhall ſee the world, your ſelf, your own Condition, all in their proper colours of vanity and vexation of ſpirit. Let this ſuffice to have been ſpoken of two of the main things propounded to be handled in the beginning.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p n="3">3. And now if any ask me; if it be ſo, <hi>why</hi> is it thus? The great husbandman ſowed good corn in his feild, whence then hath it tares? whence hath it vanity? I anſwer, man may be ſaid to be vanity cauſally, in regard of himſelf and alſo of the creature; that is, to be the Author of the vanity in the creatures, and in himſelf; I mean, of the ſinful vanity of man; and of that vanity and deceitfulneſſe which is in all the creatures, their fruſtrating mans expectations of ſatisfaction and happineſs in them and from them, which indeed they never promiſed him. I may ſay (to al<g ref="char:EOLhyphen"/>lude to that other Scripture) <hi>why ſeek ye the living among the dead?</hi> why ſeek ye happineſſe below? <hi>It is not here it is riſen:</hi> come to the paradiſe, and ſee the place where once it lay. It was ſin bred bitterneſſe in our greateſt ſweets, and diſcontent in our greateſt contentments. We drew on vanity, on ours and the creatures heads, with cords of iniquity. Man when he ſin'd, be<g ref="char:EOLhyphen"/>came vain in his imagination: and it ſufficeth the ſervant that he be<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s his maſter, that that likewife be in its kinde ſubject unto vanity.</p>
+               <p>It is true, there is a vanity which is not ſinful which was not cauſed by ſin; and that is the vanity of the greater and leſſer world in compariſon to him that made them both; they are ſo to him, vanity and lighter then vanity.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="13" facs="tcp:106839:9"/>
+               <head>IV.</head>
+               <p>As for the fourth and laſt general propoſed, <hi>viz. How we may be freed out of this vanity;</hi> I refer you to the cloſe of the applica<g ref="char:EOLhyphen"/>tion, and ſo I proceed directly to the Uſes.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſes.</head>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 1. I's every man, at his beſt and moſt flouriſhing eſtate, altogether vanity? Then, according as it is written, <hi>Jerem.</hi> 9.23. <hi>Let not the wiſe man glory in his wiſdome, neither let the mighty man glory in his might.</hi> Let not the rich man glory in his riches; but rather (as it is written, and that again and again, 1 <hi>Cor.</hi> 1.31. 2 <hi>Cor.</hi> 10.27.) <hi>Let him that glorieth, glory in the Lord.</hi> Let the poor and mean Chriſtian, (in reſpect of parts, and place, and of his portion in the things of this life,) let him glory, in that by being a Chriſtian, he is ſpiritually exalted: but the wiſe, and noble, and mighty and rich Chriſtian, glory in this, that, by this Scripture, he is made low this day, and ſet upon the ſame level and plain ground with his poor brother. Let him conſider the vanity and uncertainty, of all worldly enjoyments, and outward excellencies; it is a text or theam the prophet is commanded to preach upon, and that with a loud voice: <hi>Eſa.</hi> 40 67. <hi>The ſpirit ſaid, cry; and I ſayd, what ſhall I cry? why, all fleſh is graſs, and the goodlineſse thereof as the flower of the graſse; the graſse withereth, and the flower fadeth, becauſe the ſpirit of the Lord bloweth upon it.</hi> And the Apoſtle <hi>James</hi> gives this reaſon, why rich men ſhould have low thoughts in their high condition, becauſe, <hi>as the flower of the graſse, they and their riches ſhall paſse away. James,</hi> 1.10. You wiſe men, and noble men, and rich men; you ſeem gay and glorious flowers, the eyes of men are delighted with ſuch beautiful objects; but alas at your beſt eſtate, you are altoge<g ref="char:EOLhyphen"/>ther vanity: when you are flowring, you may be neereſt to withering, you may die in your prime and flower, like as herbs, when they begin to ſpring and flouriſh, preſently wither, and the flower thereof falleth, and the grace of the faſhion of it pe<g ref="char:EOLhyphen"/>riſheth: ſo alſo ſhall the rich man fade away in his ways, ſaith the Scripture, <hi>ver.</hi> 11. of that 1. of <hi>Janes.</hi>
+               </p>
+               <p>Couldſt thou by power or policy, get into a throne, and ex<g ref="char:EOLhyphen"/>alt thy throne above the thrones of all the Kings upon the face of the whole earth; couldſt thou proclaim thy ſelf univerfal Lord and Monarch, and ſend yokes by thine Embaſſadours, to all the Princes and States of the world, ſhouldeſt thou ſay in thy heart,
+<pb n="14" facs="tcp:106839:10"/>I will aſcend into heaven, I will exalt my throne above the ſtars of God, I will aſcend above the heights of the clouds, I will be like the moſt high: yet the time will come, and it will not be long, when this text ſhall be like <hi>Belſhazzars</hi> hand-writing up<g ref="char:EOLhyphen"/>on the wall, <hi>behold thou art weighed, and art found too light,</hi> thou art light upon the ballance, altogether vanity, <hi>and this kingdom is departed from thee.</hi>
+               </p>
+               <p>The Kings and great ones, who have gone down into the grave before thee, may take up this proverb againſt thee, may ſpeak and ſay unto thee, <hi>art thou alſo become weak as we? art thou alſo become vanity like unto us? thy pomp is brought down to the grave, and the noyſe of thy viols:</hi> Inſtead of thy golden and glorious car<g ref="char:EOLhyphen"/>pets, and coverings, behold now <hi>the worme is ſpread under thee, and the worms cover thee. How art thou fallen from heaven, O</hi> Lu<g ref="char:EOLhyphen"/>cifer <hi>ſon of the morning?</hi> O therefore when thou art in proſperity, in thy beſt eſtate, ſay not, I ſhall never be moved; Do not ſing a <hi>requiem</hi> to thy Soul, with the rich fool, ſaying, <hi>ſoul, take thine eaſe, thou haſt goods layd up for many years:</hi> leſt it be ſaid to thee, <hi>Thou fool, this night ſhall thy ſoul be taken from thee.</hi> Say not, with <hi>Nebuchadnezzar,</hi> when thou lookeſt upon thy goodly buildings, <hi>Is not this great</hi> Babylon <hi>that I have built by the might of my power, and for the honour of my Majeſtie?</hi> leſt whilſt the word be yet in thy mouth, there fall a voice from heaven, ſaying, <hi>To thee it is ſpoken, thy kingdom is departed from thee,—thy dwelling ſhall be with the beaſts of the feild;</hi> and the day cometh when <hi>there ſhall not be left one ſtone upon another, which ſhall not be thrown down.</hi> Say not with Eaſtern <hi>Babylon, Eſa.</hi> 47.7, 8. <hi>I ſhall be a Lady for ever; I am and none elſe beſides me, I ſhall not ſit as a widow, neither ſhall I know the loſſe of children; leſt theſe two things come to thee in a mo<g ref="char:EOLhyphen"/>ment, in one day, the loſſe of children, and widowhood:</hi> leſt deſola<g ref="char:EOLhyphen"/>tion come upon thee ſuddenly which thou ſhalt not know. Say not, with Weſtern <hi>Babylon,</hi> that is <hi>Rome,</hi> (ſo <hi>Auſtin</hi> calls her,) <hi>I ſit a Queen, and am no widow, and ſhall ſee no ſorrow;</hi> Leſt it be ſaid, <hi>Therefore ſhall thy plagues come in one day; death and mourning and famine,</hi> &amp;c. <hi>Revel.</hi> 18.7, 8. <hi>Truſt not in uncertain riches, but in the living God.</hi> Set before your eyes always the vanity of this world, and of your condition here, be it never ſo flouriſhing. Let not your thoughts be as their thoughts are, (<hi>Pſal.</hi> 49.11.) of whom the Pſalmiſt witneſſeth, <hi>their inward thought is, that their houſes ſhall continue for ever, and their dwelling-places to all genera<g ref="char:EOLhyphen"/>tions:
+<pb n="15" facs="tcp:106839:10"/>they call their land after their own names; They think their fa<g ref="char:EOLhyphen"/>mily and name ſhall continue for ever:</hi> Thus they think, but they are but vain thoughts. The Jews have a ſaying, that <hi>Every King is the ſon of a beggar, and every beggar is the ſon of a King:</hi> Such mu<g ref="char:EOLhyphen"/>tability and vanity there is in humane affairs, and in worldly great<g ref="char:EOLhyphen"/>neſs. 'Tis Gods work to humble high things, and to raiſe low things. He it is who ſets up one, and pulls down another, who powrs contempt upon Princes, and ſtains the pride of all their glory, and again, at the ſame time, raiſeth the poor from the dunghill, to ſet him amongſt the Princes of his people.</p>
+               <p>Oh then, ye great men, ye Grandees of the world, ye Noble<g ref="char:EOLhyphen"/>men, ye rich men, whom God hath, in theſe reſpects, exalted above your Brethren, <hi>be not high-minded, but fear;</hi> Let not your hearts be lifted up, to Judge your ſelves therefore the only happy men, and to deſpiſe others: take heed your height make not your brethren below ſeem as dwarfs, as little or as nothing, in your eyes. If the height you are in once make you diſſie and giddie (as we ſay) you are like to fall preſently, and lay all your honour in the duſt or dirt. Do not ye Idolize your ſelves, and let not the world deify you; or do not ye deify your ſelves, and let not the world Idolize you; for both theſe are vanity. To make you Gods (to give you that honour which belongs to God) is to make you Idols; and to make you Idols, is to make you vanities, and lyes, and nothing, it is indeed quite to mar you, to undo you. This text, well ſtudy<g ref="char:EOLhyphen"/>ed, would be a good antidote againſt the ſwelling of the poyſon, or againſt the tympany of pride in mighty men; and a good Cor<g ref="char:EOLhyphen"/>dial againſt the pining-conſumption of envy in mean men at the proſperity of others. The faſhion, beauty, glory of the world paſſeth away: <hi>Every man at his beſt eſtate is altogether vanity, Se<g ref="char:EOLhyphen"/>lab.</hi>
+               </p>
+               <p>And here I ſhall back this leſſon with theſe following conſidera<g ref="char:EOLhyphen"/>tions, let high and low, rich and poor, together conſider.</p>
+               <p n="1">1. That in <hi>Adam,</hi> our common-Father we were all moulded out of the ſame red earth, we grew all from one root, we iſſued all from one fountain: the higher we derive our pedegree, the neerer we are all akin. We are all lines from one center; and the neerer we go to the center, the neerer we are one to another: <hi>God made of one blood all nations and familyes to dwell upon the earth, Acts.</hi> 17.26. All bloud is of one colour, and runs in the like chan<g ref="char:EOLhyphen"/>nels and veſſels, and obſerves the ſame courſe and motion in all
+<pb n="16" facs="tcp:106839:11"/>men. We had all one father <hi>Adam,</hi> and one maker, God. We are the ſons and daughters of <hi>Adam,</hi> who was the ſon of God.</p>
+               <p n="2">2. We all live upon our fellow-Creatures; We all ſpend out of Gods treaſury, are maintained at his coſt and charges. Thoſe who received and ſpend moſt of Gods bounty, are like greater and larger poor mens boxes: God of whom the whole family in heaven and earth is named, doth of his meer goodneſs, feed, and cloath, and harbour us all. We are, all of us, wholly beholden to him, and live upon his alms or contribution altoge<g ref="char:EOLhyphen"/>ther: and the more delicious is our fair, the finer our apparel, the more ſtately our dwelling, the greater our train; the more are we indebted to his liberality. The whole world is Gods Hoſ<g ref="char:EOLhyphen"/>pital or Almes-houſe; where the greateſt and gayeſt are indeed but his Eleemoſynaryes, his Almes-men.</p>
+               <p n="3">3. All men are alike, for almoſt half their times, <hi>viz.</hi> whilſt both are aſleep, only it is the ſleep of the labouring man, ordinari<g ref="char:EOLhyphen"/>ly, is the ſweeteſt; here in ſleep, as in death, poor and rich meet together, and here the ſervant is free from his maſter.</p>
+               <p n="4">4. That greatneſſe is not alway, not very often, accompanied with goodneſſe: a man may be advanced to worldly honour and more greatneſſe, but not at all to be bettered thereby, or there<g ref="char:EOLhyphen"/>with. The ſame peice of money without any real change in the money, may by the ſupreme power, be advanced and made to paſſe at a higher rate: even ſo is honour, the rayſing the rate or value of a man in the account of the world,
+<note place="margin">
+                     <hi>D. R.</hi>
+                  </note> without changing the man, in the leaſt; for the better; on the other ſide, poverty and outward meanneſſe, do not make men ordinarily the worſe. Nay, thoſe who by the world are accounted as the ſcum, and dung, and filth of the world; even they are Gods Jewels, they are they of whom the world is not worthy. It is well ſaid by Dr. <hi>R.</hi> that <hi>mighty men and mean, differ but like great and ſmall letters, in the ſame volume, great letters take up more room, make a braver ſhew: It may be we are arrayed in ſcarlet, and ſo better ſeen, and more gazed on by vulgar eyes: but they put no more matter or worth, no more or better ſenſe into the words which they compound, <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the volumes th<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> are in.</hi> Great men make a more glorious ſhow in the volume of this world; but this great book of the Univerſe is not ſubſtantially the better for them.</p>
+               <p n="5">5. Whilſt we live together here in this world, there is no reſ<g ref="char:EOLhyphen"/>pect of perſons with God: God accepts no mans perſon, or ſa<g ref="char:EOLhyphen"/>crifice,
+<pb n="17" facs="tcp:106839:11"/>for his greatneſſe: and, in Chriſt Jeſus, 'tis not his be<g ref="char:EOLhyphen"/>ing a mighty man, or mean man; a rich man, or poor man; not bound or free, which avayleth any thing; but the being a good man, a good Chriſtian, this is it which is accepted of him. All true Chriſtians, rich and poor, are fellow-members of the ſame body; now, as in the body natural, one member doth not under<g ref="char:EOLhyphen"/>value another, becauſe it is not ſet in ſo high a place in the body, or is not ſo well cloathed as another: ſo let Chriſtians of high de<g ref="char:EOLhyphen"/>gree, not contemn them of low degree; and let not Chriſtians of low degree, envy or repine at them that are exalted: they that are on high ſee a larger field of vanity, then you that ſtand on a lower ground.</p>
+               <p n="6">6. We ſhall all dye alike; no difference in the natural deaths of men becauſe Princes, or poor men, mighty or mean. Though ſome ſeem to have heads of gold, like <hi>Nebuchadnezzars</hi> Image; yet they all ſtand but upon feet of clay; we muſt lye down in the duſt together; and who can diſtinguiſh the Kings duſt from the beggars. We are all excellently well compared to a ſet of coun<g ref="char:EOLhyphen"/>ters, which men uſe in caſting of account: the counters are in themſelves all alike, and differ only for a time, according to the place in which they are ſet; ſome ſtand for pounds, ſome for ſhillings, and ſome for pence; but in the concluſion all are alike jumbled into the box or bag together: ſo it is in the world, ſome ſtand in a higher place and a greater value is ſet on them for a time then others; but at laſt, at death, all ſhall be jumbled a<g ref="char:EOLhyphen"/>like into the grave, <hi>Pſal.</hi> 49.</p>
+               <p n="7">7. When we ſhall be awakened out of our ſleep in the grave, and gathered together before the judgement ſeat of Chriſt; this diſtinction, of noble, and mean men ſhall ceaſe. In the Reſurre<g ref="char:EOLhyphen"/>ction, at the Coronation of the King of Kings, the Heraulds of this world ſhall have no place to rank men according to the dignity of their houſes and families. In that reſpect, the reſurrection will make us all Peers, and thoſe that ſhall wait on him on that day, he will make all and for ever Kings. Oh therefore, conſidering that after a while, all theſe artificial differences of coats and out<g ref="char:EOLhyphen"/>ward diſtances of place, ſhall ceaſe; let us not, for this ſmall pittance of time we have to live here, let us not diſpiſe or envy one another, let not the honourable perſon behold his inferiour with a haughty, proud, diſdainful eye and let not the mean man look on the noble man, or great man with an evil and envious
+<pb n="18" facs="tcp:106839:12"/>eye. Neither let the great Schollars of the world, or the grandees for wiſdome and knowledge, exalt themſelves too much, and glory in their learning and wiſdome, as if theſe were exempt and priviledged from the touch of vanity. Let ſuch know, that the wiſdom of the world is fooliſhneſſe with God; and that King <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> wiſer then the wiſeſt now upon the face of the earth, found a vanity in humain knowledge, <hi>Eccleſ.</hi> 1.18.</p>
+               <p>Beſides, let the greateſt Schollar the world has, ſee and know, that his line is too ſhort to fathom the depths of nature; that there are many things there; which, as to the comprehenſive knowledge of them, he muſt let them alone forever. Where is the wiſe man? where is the diſputer of this world? where is the profound Phi<g ref="char:EOLhyphen"/>loſopher? Give me, if thou canſt, a Definition of thy own ſoul, Nay but the definition of a ſtraw under thy foot. Tell me if thou canſt, how the <hi>Remora,</hi> a fiſh no bigger then a carp, ſtays the ſhip? How the Load-ſtone draws Iron? Why the graſs is green? Give us a ſatisfactory reaſon, if you can, why ſome Creatures are covered naturally with hair-cloath, others with rugs of the fi<g ref="char:EOLhyphen"/>neſt wooll, and others walk up and down and fly abroad, as well as ſleep, in feather beds of divers colours? <hi>Hen quantum eſt quod neſcimus!</hi> and again, <hi>Maxima pars eorum quae ſcimus, eſt minima eorum quae neſcimus:</hi> good Motto's for the greateſt Schollars. Oh therefore let the great Schollar <hi>glory in this, that he knows me,</hi> ſaith the Lord, <hi>Jerem</hi> 9. or in this, that he <hi>knows Jeſus Chriſt and him crucified;</hi> and that he is <hi>able to comprehend, with all Saints, the height, and depth, and length and breadth af the love of God, and to know the love of Chriſt which paſſeth knowledge.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 2. Is every man at his beſt eſtate vanity? then, <hi>ceaſe from man whoſe breath is in his noſtrills,</hi> whoſe condition, when moſt flouriſhing, is but fading and vaniſhing, <hi>for wherein he is to be accounted of? Put not your truſt in Princes, or in any ſon of man, Pſal.</hi> 146.3.</p>
+               <p>Men cannot preſerve themſelves alive, or in honour, cannot make themſelves happy, or ſecure themſelves from outward miſery. Lean not too hard on theſe ſtaves, they will break under you: to truſt to theſe is to truſt to a broken reed, 'tis to lean on a ſpear which will pierce you, they are ſtaves of bands, and not of beau<g ref="char:EOLhyphen"/>ty. The rod of God is a ſtaff; but the ſtaff of man is a rod oft times, and will ſoon be turned into a Serpent, and bite you. Truſt not in the favour of Princes, or great men: Conſider the height and
+<pb n="19" facs="tcp:106839:12"/>downfal of <hi>Haman, Sejanus,</hi> Cardinal <hi>Woolſey,</hi> and other Fa<g ref="char:EOLhyphen"/>vourites. Truſt not in the favour of the multitude or common<g ref="char:EOLhyphen"/>people, neither, <hi>verſatilis turba.</hi>
+               </p>
+               <p>Now the multitude will cry <hi>Hoſanna,</hi> and anon <hi>Cruciſige</hi> now they will prepare <hi>Garlands,</hi> and be ready to ſacrifice to you as a God; and anon they will ſtone you as a Malefactor, or one of the worſt of men.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 3. Is there vanity in what thou art, and doeſt, and haſt (conſidered without Chriſt)? then do not Idolize thy ſelf for any endowments, nor bleſs thy ſelf for any creature enjoyments: do not pride thy ſelfe for parts and gifts: If thy heart be lifted up within thee for theſe, thou haſt but a vain minde, thou art be<g ref="char:EOLhyphen"/>come a fool in glorying, if any man might have ſtood upon their parts and abilities, ſurely <hi>Solomon</hi> much more.</p>
+               <p>Be not too much enamoured with the perfections of thy body or outward man; thy ſtrength, agility, health, beauty; all ſhall fade away, wither like the graſs, and periſh like the flower of the graſs, when the blaſting Eaſt winde, or the ſcorching Sun<g ref="char:EOLhyphen"/>beams comes upon it. The day will come when you ſhall ſay, they are vanity; when you ſhall ſay you have no pleaſure in them.</p>
+               <p>Do not place happineſs in what thou haſt, in great poſſeſſions, in Creature-comforts, and enjoyments, there's a vanity in deli<g ref="char:EOLhyphen"/>cious meats and drinks, in fine apparel, in ſumptuous buildings, in a large train of attendants, in the multitude of friends and ac<g ref="char:EOLhyphen"/>quaintance; do not place happineſs in theſe things, for you will never be able to finde it here. In vain do you look for <hi>Canaan</hi> on this ſide <hi>Jordan,</hi> the Devil ſhewed our Saviour all the kingdomes of the world, and the glory of them; and 'tis obſerved, that he did this in a moment, as it were <hi>in ictu oculi,</hi> in the twinkling of an eye, <hi>ſic tranſit gloria mundi.</hi> But we have need to go up often, and to ſtay long with God in the mount, to ſee clearly all the kingdomes of the world and the vanity of them. The world is a world of vanity; yea, there's a world of vanity in every man. Behold I ſhew you a miſtery, the leſſer world <hi>man</hi> is more com<g ref="char:EOLhyphen"/>prehenſive of vanity then the greater.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 4. Is the world a world of vanity unto man? are the good things of the world (as they are called) good for nothing, as to the making us happy? then let's not fall out, and make our ſelves miſerable by diviſions, ſtrifes, and contentions about them; 'tis for
+<pb n="20" facs="tcp:106839:13"/>children and fools to wrangle and fall out for toys, and vani<g ref="char:EOLhyphen"/>ties. Fall not out for that which is not. It was <hi>Juſtus Lipſius</hi> his Epitaph of his own making, which he commanded to be written on his Sepulcher.</p>
+               <q>
+                  <l>
+                     <hi>Vis altiore voce me tecum loqui.</hi>
+                  </l>
+                  <l>
+                     <hi>Humana cunota ſumus, umbra, vanitas,</hi>
+                  </l>
+                  <l>
+                     <hi>Et, verbout abſolvam, nihil.</hi>
+                  </l>
+               </q>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> 5. Let us all make that uſe of this doctrine, which the Prophet <hi>David</hi> doth in this, <hi>Pſal.</hi> v. 7. ſaying, <hi>And now, Lord, what wait we for? our hope is in thee.</hi> Seeing Every man is ſo vain, and ſeeing every thing is ſo unprofitable, why ſhould we in vain ſeek to be happy by any thing ſhort of thee? No, no, we do not; that be for ever far from us ſo to do. Our hearts were made by thee, and they are never fully at reſt, till they come unto thee. Thy favour and grace we prize above all earthly happineſs. Be thou our God, let us be thy Sons and daughters; and then we are ſure, thou haſt begun already, and wilt perfectly, in thy own time, redeem us from this bondage of corruption and vanity, to which we are now ſubject. As we are children of the firſt <hi>Adam,</hi> ſo we are indeed bond-men to vanity; but our hope is in the ſecond <hi>Adam,</hi> to be by him delivered into the glorious liberty of the ſons of God. Our preſent life is vanity, but the gift of God is eter<g ref="char:EOLhyphen"/>nal life, is immortallity. All this world is a world of vanity; but we look for the world to come, wherein dwells bleſſedneſs and true felicity. Vanity groweth up out of the earth: we expect our happineſſe to come from heaven. We account all things here be<g ref="char:EOLhyphen"/>low, but as dung and droſs and vanity in compariſon of Chriſt and the grace and glory of Chriſt, thoſe better things, thoſe things above, all temporal good things are but as ſhadows; but our ſubſtance is with thee, <hi>ſubſtantia mea apud te eſt,</hi> ſo ſome render the 7th verſe. All worldly hopes are but like the ſpiders web; but our hope in God and Chriſt our Saviour, is an Anchor firm and ſtedfaſt, caſt ſurely within the veyl, ſo that we can ne<g ref="char:EOLhyphen"/>ver ſink. Our all, is nothing, compared to thee; Lord, thou art our all in all. Whom have our ſouls in heaven, but thee? and whom have we on earth that we can deſire in compariſon of thee? truly our lines are fallen in a pleaſant place, we have a goodly in<g ref="char:EOLhyphen"/>heritance: The Lord is our portion, our exceeding great reward, we will not be ſatisfied with any thing, with all things, beſides
+<pb n="21" facs="tcp:106839:13"/>thee; not with things preſent, nor things to come; not with things in the height or depth, viſible or inviſible, temporal or eternal; not with angels, principalities or powers, or earth or heaven; we eſteem all as ſhadows, and vanities; only this is our happineſſe, we are Chriſts, and Chriſt is Gods. We will no lon<g ref="char:EOLhyphen"/>ger forſake our own mercies, that is, thee, the God of our mer<g ref="char:EOLhyphen"/>cies, to follow after lying vanities behold here is an anſwer to the laſt thing propounded in the begining, <hi>viz.</hi> This is the way to be freed from vanity, and we will walk in it. Jeſus Chriſt is our Captaine, whom if we follow through the troubleſome ſea of this world, as the Iſraelites did <hi>Moſes</hi> through the Red-ſea; the waters ſhall ſtand as a wall on the right hand and on the left, and the proud waters ſhall not overwhelm us, ſhall not go over our ſouls. Jeſus Chriſt is our Ark, into whom we will get by faith, and by him be ſaved, whilſt the whole world, that are out of Chriſt, ſhall periſh by this floud of vanity which comes upon all the earth. Thus will we make ſure of this <hi>one thing neceſsary,</hi> that our faith and hope, being in God, ſhall not be in vain; that we ſhall not live and dye in vain, but that our Lord Jeſus Chriſt may be to us, both in life and death, gain and advantage; that, when we ſhall part with our corporal lives (which, in times of ſickneſſe and war, we carry dayly in our hands, and are apt to loſe; and which, in times of the greateſt peace and proſperity, we cannot long hold; for at the beſt, they are fleeting, and fading, and vanity) we may be ſure to lay faſt hold on eternal life; ſo that vanity may no more have dominion over us; <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:106839:14"/>
+            <pb n="23" facs="tcp:106839:14"/>
+            <head>An Epitaph on Sir <hi>Roger Townſhend,</hi> who dyed at <hi>Geneva</hi> in his travail towards <hi>Rome,</hi> aged 19 years and a half, in the year 1648.</head>
+            <lg>
+               <l>
+                  <hi>LOe here lyes duſt and aſhes Oar,</hi>
+               </l>
+               <l>
+                  <hi>More prec'ous then the golden ſhoar;</hi>
+               </l>
+               <l>
+                  <hi>One Jewel precious in this tomb,</hi>
+               </l>
+               <l>
+                  <hi>Far more then all i'th Sea of</hi> Rome.</l>
+               <l>Geneva <hi>now a Saint may vye</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Rome, <hi>and with all</hi> Italy:</l>
+               <l>
+                  <hi>Loe there the Painters are divines</hi>
+               </l>
+               <l>
+                  <hi>In Colours, and their Saints are ſhrines;</hi>
+               </l>
+               <l>
+                  <hi>But here doth ſleep are all Saint,</hi>
+               </l>
+               <l>
+                  <hi>Here is no Sepulcher in paint.</hi>
+               </l>
+               <l>Piemont <hi>to</hi> Townſhend Piſgah <hi>was,</hi>
+               </l>
+               <l>
+                  <hi>Nigh which to</hi> Canaan <hi>he doth paſſe,</hi>
+               </l>
+               <l>
+                  <hi>And when men thought h'had been at</hi> Rome,</l>
+               <l>
+                  <hi>To Heav'n the Traveller was come:</hi>
+               </l>
+               <l>
+                  <hi>To</hi> England <hi>how ſhould he return,</hi>
+               </l>
+               <l>
+                  <hi>When all's on fire and Seas do burn:</hi>
+               </l>
+               <l>
+                  <hi>Had he ſeen</hi> Rome, <hi>he knew't would farn</hi>
+               </l>
+               <l>
+                  <hi>Then make a Saint him rather marr:</hi>
+               </l>
+               <l>
+                  <hi>In peace had's Engliſh home 'gain ſeen,</hi>
+               </l>
+               <l>
+                  <hi>H'had ſtill a Ward and Pilgrim been.</hi>
+               </l>
+               <l>
+                  <hi>Heav'n is a home which reſt give can,</hi>
+               </l>
+               <l>
+                  <hi>And under Twenty make him Man.</hi>
+               </l>
+            </lg>
+            <signed>T. H.</signed>
+         </div>
+         <div type="epitaph">
+            <pb n="24" facs="tcp:106839:15"/>
+            <head>Another.</head>
+            <lg>
+               <l>
+                  <hi>HEre aye</hi> Geneva <hi>Lake let weep</hi>
+               </l>
+               <l>
+                  <hi>Cauſe death a Gourt of Guard did keep;</hi>
+               </l>
+               <l>
+                  <hi>Eccho ye Alps for aye alas!</hi>
+               </l>
+               <l>
+                  <hi>'Cauſe Trav<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llers have for death no paſs:</hi>
+               </l>
+               <l>
+                  <hi>Our tears let recompence the Lake,</hi>
+               </l>
+               <l>
+                  <hi>And ever after full-ſea make;</hi>
+               </l>
+               <l>
+                  <hi>Let's thus requite the hills, let's all</hi>
+               </l>
+               <l>
+                  <hi>Henceforth them</hi> Townſhends <hi>Pyramids call.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="25" facs="tcp:106839:15"/>
+            <head>On Occaſion of the Narrative ſent over by M. <hi>Diodati</hi> in which houſe he dyed.</head>
+            <lg>
+               <l>
+                  <hi>ARe ye prevented Poets? what too late</hi>
+               </l>
+               <l>
+                  <hi>His life and death to blazo'n?</hi> Diodate</l>
+               <l>
+                  <hi>Has don't in Proſe, he that the Sacred Text</hi>
+               </l>
+               <l>
+                  <hi>Firſt Commented upon, his life is next:</hi>
+               </l>
+               <l>
+                  <hi>And 'twas a ſacred ſtory, ſhort it was;</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Bible cal't a Paraploraſe,</hi>
+               </l>
+               <l>
+                  <hi>A Paraphraſe Incarnate of the laſt</hi>
+               </l>
+               <l>
+                  <hi>And beſt edition much corrected was't,</hi>
+               </l>
+               <l>
+                  <hi>Reformed eve'ry way, Tranſlated ſo,</hi>
+               </l>
+               <l>
+                  <hi>He now ſpeaks ſeventy languages and moe;</hi>
+               </l>
+               <l>
+                  <hi>H' Interprets</hi> Babel, Pentecoſt <hi>and all,</hi>
+               </l>
+               <l>
+                  <hi>And is tranſlated to's Original.</hi>
+               </l>
+               <l>
+                  <hi>In this ſmall work divinity is more</hi>
+               </l>
+               <l>
+                  <hi>Then in the great</hi> Toſtatus <hi>half a ſcore.</hi>
+               </l>
+               <l>
+                  <hi>Yea, now one Tome of this ſhort volume man</hi>
+               </l>
+               <l>
+                  <hi>Contains more learning then the</hi> Vatican,</l>
+               <l>
+                  <hi>Set by Inſpired Authors, th' reſt i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le call</hi>
+               </l>
+               <l>
+                  <hi>Compar'd to this,</hi> one Ignoramus all:</l>
+               <l>
+                  <hi>Worms may devour th' book cover, leaves may fade</hi>
+               </l>
+               <l>
+                  <hi>Though green and florid, or with gold ore laid;</hi>
+               </l>
+               <l>
+                  <hi>Worms can't corrupt the text, and the Angel's blaſt</hi>
+               </l>
+               <l>
+                  <hi>Shall blow 'way worms, and duſt, and death at laſt.</hi>
+               </l>
+            </lg>
+            <signed>T. H.</signed>
+         </div>
+         <div type="sermon">
+            <pb facs="tcp:106839:16"/>
+            <pb n="27" facs="tcp:106839:16"/>
+            <head>The Second Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke</hi> 16.30.31.</bibl>
+                  <p>
+                     <hi>And he ſaid, nay father</hi> Abraham, <hi>but if one went unto them from the dead they will repent.</hi>
+                  </p>
+                  <p>
+                     <hi>And he ſaid unto them, if they hear not</hi> Moſes <hi>and the Pro<g ref="char:EOLhyphen"/>phets, neither will they be perſwaded, though one roſe from the dead.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THe Relation concerning <hi>Dives</hi> and <hi>Lazarus</hi> from the 19th verſe to the end of this Chapter, ſome will have to be an Hiſtory, others a Parable; I concur with the latter: for what tongue could <hi>Dives</hi> have in hell, whoſe body was in the grave? And what finger could <hi>Lazarus</hi> have, whoſe ſoul only was now in Paradiſe or heaven?</p>
+            <p>In parables what is ſet down as ſpoken, ſignifies only what was fit to be ſaid; if any words were to be made of ſuch matters. Parables (ſaith one) are Vocal Hyerogliphicks,
+<note place="margin">Dr. <hi>Ing.</hi>
+               </note> lively images of uſeful truths fitted for inſtruction: Chriſt made feſcues of known earthly reſemblances, to point out to us ſpiritual and heavenly Doctrines.</p>
+            <p>In this parable <hi>Dives</hi> in Hell makes two requeſts to <hi>Abraham</hi> in heaven.</p>
+            <p>Firſt, for himſelf, <hi>that he would ſend</hi> Lazarus <hi>to dip the tip of his finger in water, to cool his tongue:</hi> But he that would not give a crumb of bread, could not obtain a drop of water.</p>
+            <p>Being denied for himſelf, his ſecond requeſt is for his brethren, <hi>viz.</hi> that <hi>Abraham,</hi> would ſend <hi>Lazarus</hi> to his fathers houſe, <hi>to teſtifie unto his brethren, leſt they alſo ſhould come unto that place of torment:</hi> But he ſpeeds no better in this then in the former: <hi>Abraham</hi> lets him know, 'tis needleſſe: <hi>They have</hi> Moſes <hi>and
+<pb n="28" facs="tcp:106839:17"/>the prophets, i. e.</hi> the writings of <hi>Moſes</hi> and the prophets; <hi>let them hear them;</hi> believe and obey them: by them they may ſooner and better be perſwaded to repent, then if <hi>Lazarus</hi> or any other like him ſhould ariſe from the dead to warn them, and to teſtify to them that they ſhould repent.</p>
+            <p>Again, in Parables the end and ſcope of them is mainly to be attended unto; now the ſcope and deſign of this parable is to teach rich men pitty and compaſſion to the poor, and to teach all men to reade and meditate on the holy Scriptures, to hear and to obey them, that ſo they may attain eternal life; for the right way to eſcape hell torments, and to be made partakers of Heavens hap<g ref="char:EOLhyphen"/>pyneſſe, is to follow the guidance and direction of the Holy Scri<g ref="char:EOLhyphen"/>ptures. If it be asked, how came <hi>Abraham</hi> to know that the Jews had the writings of <hi>Moſes</hi> and the prophets? I anſwer, he might be informed of this, by <hi>Moſes</hi> and the prophets, when they came to heaven: or he might know it by revelation: probably, God would not hide from <hi>Abraham,</hi> a matter of ſo great concernment to his ſeed: however, certain it is, the Jews had the Holy Scrip<g ref="char:EOLhyphen"/>tures, which were able to make them wiſe unto Salvation: and they had no need that any ſhould riſe from the dead to teach them.</p>
+            <p>'Tis true indeed, men are apt to fancy, by other ways and means to get good, and to do good, and to pleaſe God, then what God hath preſcribed: men are apt to ſay in their hearts, <hi>who ſhall aſcend into heaven,</hi> to bring them the minde of God in ſuch and ſuch things? or wherewithall ſhall I come before God to make atonement for my ſins? ſhall I give the firſt born of my body for the ſin of my ſoul? when <hi>Naaman</hi> the Syrian came to be cured of his leproſy, 2 <hi>King</hi> 5.11. he verily thought, that the prophet would have come out to him, and would have ſtroked his hand over the place, and have called upon the name of his God, and when he ſaw he was diſappointed of his expectation in theſe particulars he grew very angry and would hardly be per<g ref="char:EOLhyphen"/>ſwaded by his ſervants to go and waſh ſeaven times in <hi>Jordan,</hi> as the prophet had ſent unto him to do; ſaying, <hi>are not Abanah and Pharpor, Rivers of Damaſcus, better then all the waters of Iſrael? may I not waſh in them and be clean?</hi> the ſame <hi>Naaman,</hi> after he was cured of his leprofy, had a fancy, that the earth of the land of <hi>Canaan,</hi> was better to build an Altar to God withall, then of any other land; and therefore, he begg'd of the prophet <hi>Eliſha,</hi>
+               <pb n="29" facs="tcp:106839:17"/>that <hi>there might two Mules burden of earth be given him:</hi> (I ſup<g ref="char:EOLhyphen"/>poſe, for the purpoſe aforeſaid, becauſe it immediately fol<g ref="char:EOLhyphen"/>lows) <hi>for thy ſervant will henceforth offer neither burnt-offerings nor ſacrifice unto any other gods, but unto the Lord,</hi> 2 Kin. 5.17. The Jews, they imagined, that <hi>Meſſiah</hi> ſhould be a temporal Prince, and ſet up a temporal Kingdom, and therefore, becauſe our Saviour Chriſt, came not in ſuch outward pomp, ſtate, and glo<g ref="char:EOLhyphen"/>ry, they rejected him: hence it is I ſuppoſe alſo, that the papiſts are not contented with Chriſts naked inſtitutions but preſume to adde of their own inventions, to make them more gawdy, and more efficatious: to Baptiſm with water, they adde Cream, Oyle, ſpittle, exſufflation. The Lords ſupper they have turn<g ref="char:EOLhyphen"/>ed from a Sacrament for the living, to a ſacrifice for the quick and dead: they will not preſume to go directly or immediate<g ref="char:EOLhyphen"/>ly to God the King of Heaven, or by the mediation only of his own ſon whom he hath made Maſter of requeſts there, but they muſt make uſe of the mediation of the Courtiers of Heaven, Saints and Angels: they fancy 'tis not good manners to do other<g ref="char:EOLhyphen"/>wiſe: they think Chriſt crucified, not ſufficiently repreſented, in the preaching of the word, and adminiſtration of the Sacraments except they have alſo before their eyes, crucifixes, Images, or pictures of him hanging on the Croſſe. The Idolaters of old offe<g ref="char:EOLhyphen"/>red their ſons and daughters in ſacrifice, to appeaſe their offended Gods. And Gods own people, imitated the Idolaters of the nati<g ref="char:EOLhyphen"/>ons: which thing yet, God tells them, it never came into his heart, to require at their hands; thoſe Idolaters, the worſhip<g ref="char:EOLhyphen"/>pers of <hi>Baal,</hi> cut and lanced themſelves to procure more compaſ<g ref="char:EOLhyphen"/>ſion and audience of their prayers: and amongſt the papiſts, ſome whip themſelves, to make thereby ſatisfaction for their ſins, <hi>Mat.</hi> 6.7. We reade of ſome that thought they ſhould be heard for their much-ſpeaking: and ſuch are our papiſts alſo who think to prevail, by ſuch a number of <hi>Ave-Maries,</hi> and <hi>Pater-noſters;</hi> as if God regarded and anſwered prayers, according to their num<g ref="char:EOLhyphen"/>ber, rather then according to the faith and devotion, of the ſouls that made them. And here <hi>Dives</hi> had a perſwaſion, that though his brethren were not converted by the ordinary means, <hi>Moſes</hi> and the Prophets, yet they would certainly repent, if an extraor<g ref="char:EOLhyphen"/>dinary meſſenger, one from the dead, ſhould be ſent to them, to warn them, leſt they came into the ſame place of torment where he was. And truly at the firſt view, this requeſt of <hi>Dives,</hi> to ſend
+<pb n="30" facs="tcp:106839:18"/>
+               <hi>Lazarus</hi> from the other world, from the boſome of <hi>Abraham</hi> to his brethren the children of <hi>Abraham</hi> according to the fleſh, to warn them to repent, ſeems not unreaſonable.</p>
+            <p>For firſt, the apparition of a dead mans Ghoſt, we may eaſily imagine, would affright a ſinner in the midſt of his ſins, and make him ſmite on his thigh, and ſay, what have I done? or what do I? <hi>Moſes</hi> and the Prophets tell us of our duties, of the puniſh<g ref="char:EOLhyphen"/>ment due to us, if we fail of it, but one that comes from the other world, could teſtify, that all that <hi>Moſes</hi> and the prophets have ſaid, is true; ſo that their words ſhould not ſeem any more (as they do too too often, to many) but as idle tales: ſuch a one could tell, that there is another life after this, that there is a fu<g ref="char:EOLhyphen"/>ture eſtate of happineſſe or miſery; that when a man dyes, his ſoul doth not dye with his body, doth not ſleep; doth not ceaſe to be. It would be happy for Atheiſts, Epicures, Gluttons, Drunkards, Blaſphemers, and unclean perſons; for oppreſſors, for covetous and unmerciful <hi>Dives</hi>'s if there was no life, no world after this; but that as they have lived like beaſts, or worſe then beaſts, ſo they may die like beaſts alſo; But if there had been neither <hi>Moſes</hi> nor the prophets to teſtify the contrary, yet nee<g ref="char:EOLhyphen"/>ded not any to come from the dead to do it: heathen poets, and phyloſophers, have had knowledge of a future eſtate; witneſſe their <hi>Eliſian</hi> fields, a kinde of paradiſe for the vertuous; and their <hi>Phlegethons,</hi> a river of fire, a kinde of hell for the wicked.</p>
+            <p>But 2dly, If a Ghoſt ſhould appear to us, we ſhould be apt to think, that we ſhould die ſhortly; and that the Ghoſt of a dead man, did come to call or ſummon us, to the ſtate and place of ſeparate ſouls; ſuch an apparition would be like the Meſſenger to <hi>Hezekiah, ſet thy houſe in order for thou ſhalt dye:</hi> and probably would put us into <hi>Bellſhazzars</hi> poſture, when he ſaw the hand<g ref="char:EOLhyphen"/>writing upon the Wall, would make <hi>our countenance change, would make the joynts of our loyns to be looſed,</hi> and <hi>our knees to ſmite one againſt another.</hi> And one would think, that ſuch a fear, ter<g ref="char:EOLhyphen"/>ror and conſternation, might reaſonably minde us, of what we had done, namely, to undo our ſelves: and what we ſhould do to eſcape the wrath to come, or the damnation of hell.</p>
+            <p>And 3dly, All this probably might prove more effectuall, if that one that came from the dead, ſhould be <hi>Lazarus,</hi> a good man, whoſe ſoul, came from the boſome of <hi>Abraham; Lazarus,</hi> one who likely might be known, to <hi>Dives</hi> his brethren, to have been
+<pb n="31" facs="tcp:106839:18"/>a poor miſerable and contemptible perſon whilſt he lived in this world; when they ſhould ſee him come from heaven, from one of the higheſt places there, from <hi>Abrahams</hi> boſome, and probably, in a glorious manner, make his appearance; this might teach them, and minde them, that 'tis poſſible, that poor men may be happy in the other world; and beſides, when he ſhould tell them, as he might be well able to do, how happy he was there, though he had been never ſo poor here, and how miſerable, <hi>Dives</hi> their brother was in hell, not withſtanding all his great riches in this world; this, one would think, ſhould be, an effectual means, to warn, to perſwade, and to bring them to repentance: I ſay when he ſhould tell them, that <hi>poor Lazarus was comforted,</hi> and <hi>rich</hi> Dives <hi>was tormented,</hi> how he was advanced to heaven, and their brother <hi>Dives</hi> thrown down to hell; when he ſhould tell them, the glorious viſions and fruitions of heaven, and that there was no compariſon betwixt earth and heaven; betwixt the fading riches of this world, and the durable riches of the other, 'twixt ſenſible pleaſures, and heavenly joys; 'twixt the honour from men here, and the glory that is to be had from God hereafter; 'twixt the company of men though never ſo great, and rich here, and the ſociety of God and his holy Angels in heaven; And that <hi>Dives</hi> his palace was but a dungeon, or dunghill, to the palace of the great king of heaven and earth; that riches either horded up, or Epi<g ref="char:EOLhyphen"/>curean-like, laid out upon our ſelves, our back and our belly, would not avail in the day of wrath; and would only be able to aggravate our miſery, and to encreaſe our torment there; further, when he ſhould tell them, that money though it anſwers all things here, yet in the other world it is of no uſe at all; Saints and An<g ref="char:EOLhyphen"/>gels above, ſlight it, as much as worldlings overvalue it below: behold, in the other world <hi>Dives</hi> and all his riches, were weighed and ſound too light: that <hi>Dives</hi> his greatneſs, Riches and Ho<g ref="char:EOLhyphen"/>nours and delicates were momentary, and all vaniſhed; and that in place and room thereof, how he is tormented. How that he ſaw him in hell torments, inſtead of delicious fare, and delight<g ref="char:EOLhyphen"/>ful muſick, behold weeping, and wailing, and gnaſhing of teeth: Inſtead of purple and fine linnen, behold fire and Brimſtone, and the ſmoak of the Bottomleſs pitt, compaſſing him as a garment. And on the other ſide, for his own part, he had no cauſe at all to repent him, of all his poverty, hardſhip, and miſery he went through or underwent in this life, for that now heaven makes a<g ref="char:EOLhyphen"/>mends
+<pb n="32" facs="tcp:106839:19"/>for all. That <hi>his light afflictions, which were but for a mo<g ref="char:EOLhyphen"/>ment,</hi> are now recompenſed <hi>with a far more, exceeding and eter<g ref="char:EOLhyphen"/>nal weight of glory.</hi> And if after all this and a great deal more which he might ſay, he ſhould tell them, that if they did conti<g ref="char:EOLhyphen"/>nue in their ſins and die in them, they ſhould have their portion in hell, with their brother <hi>Dives,</hi> yea, with the Devil and his an<g ref="char:EOLhyphen"/>gels for ever; but if they would now forſake their fins, if they would break off their ſins by repentance, and their iniquities by ſhewing mercy to the poor; if they would ceaſe to do evil, and learn to do well; if they would be open hearted and open-handed to their poor brethren; when they dyed, God would ſend his Angels, to carry their ſouls into the boſome of <hi>Abraham,</hi> from whence he came out, ſent by their father <hi>Abraham,</hi> and at the requeſt of their brother <hi>Dives.</hi> If all this had been ſaid and done, one would be ready to think, that here had been enough and more then enough, to have perſwaded the worſt and moſt hard<g ref="char:EOLhyphen"/>hearted ſinner to repentance; But ſo is it, that a great deal more effectual means then all this, prove inſufficient to turn ſinners from the errours of their ways.</p>
+            <p n="1">1. The Jews had <hi>Moſes</hi> and the prophets amongſt them, who being dead, yet ſpake unto them in their writings. They received the law by the diſpoſition of Angels; yea God himſelf preached unto them in thunder and lightnings, and flames of fire at <hi>Sinai;</hi> the Jews had more ſignes, wonders and miracles wrought amongſt them, or for them, then the whole world beſides: they had three raiſed from the dead under the Old Teſtament-diſpenſation; our Saviour when he came he raiſed three from the dead, one newly dead <hi>Jairus</hi> his daughter: one carried out to be buried as the <hi>widdow of Naim her ſon,</hi> and one that lay four days in the grave, <hi>viz. Lazarus;</hi> and yet the Jews, the body of the nation, were ofttimes hard-hearted and impenitent ſinners; even when Chriſt came in the fleſh, and manifeſted forth his glory amongſt them, in working more miracles, then <hi>Moſes</hi> and the prophets that went before him: yet <hi>they would not repent, that they might believe, that Jeſus was the Chriſt, the Meſſiah, and that believing they might have life, through his name:</hi> yea, they ſought to put <hi>Lazarus</hi> to death, whom Chriſt raiſed from the dead; and at laſt put Chriſt himſelf to death who brought him from the dead: ſo far were they from being wrought upon, to repent once unto life by this miracle.</p>
+            <p n="2">
+               <pb n="33" facs="tcp:106839:19"/> 2. Yea, Chriſt himſelf afterward raiſed himſelf from the dead, and confirmed his doctrine and his miſſion, that he was ſent of God, that he came out of the boſome of God the father, the God of <hi>Abraham, Iſaack</hi> and <hi>Jacob,</hi> that he came to preach repen<g ref="char:EOLhyphen"/>tance and forgiveneſſe of ſins, and yet the groſſe of the Jewiſh Nation would not be perſwaded to repent and believe on him: <hi>behold one greater then</hi> Moſes, <hi>and all the prophets;</hi> and therefore one greater then <hi>Lazarus,</hi> and he too from the dead, his ſoul from paradiſe, and his body was raiſed out of the grave: and he was one who could tell them of the joys of heaven, and of the tor<g ref="char:EOLhyphen"/>ments of hell more, and better then <hi>Lazarus:</hi> he could tell them, that for to procure pardon to ſinners, he himſelf had ſuffered the pain of ſence in the garden, when he ſaid, <hi>his ſoul was exceeding ſorrowful unto the death,</hi> and when he ſweat great drops of blood, trickling down to the ground; and the pain of loſs when he hung on the Croſſe, and cryed out, <hi>my God, my God why haſt thou for ſa<g ref="char:EOLhyphen"/>ken me?</hi> he could tell them that for their ſakes he had endured the pains of hell, to the end, that repentance and remiſſion of ſins ſhould be preached in his name, unto all nations, beginning at <hi>Jeruſalem:</hi> yet how few in compariſon, amongſt the Jews be<g ref="char:EOLhyphen"/>lieved on him.</p>
+            <p n="3">3. 'Tis obſervable, what we reade of <hi>Herod, that he heard John Baptiſt gladly,</hi> and did many things at his preaching though <hi>John</hi> wrought no miracles: and when he heard of the ſame of Jeſus Chriſt, and the mighty works done by him, and imagined that it was <hi>John the Baptiſt</hi> or ſome old prophets riſen from the dead, but for all that, did not repent and amend his life, that ever was heard of.</p>
+            <p n="4">4. There are to be found many, too too many amongſt us, that call themſelves Chriſtians,
+<note place="margin">D. <hi>All.</hi>
+               </note> and profeſſe to believe in Chriſt cru<g ref="char:EOLhyphen"/>cified, dead and buried, deſcended into hell, that he aroſe from the dead the third day, aſcended into heaven, and from thence he ſhall come to judge the quick and the dead, and for all this are impenitent and unbelieving.</p>
+            <p n="5">5. Paſſe we to the Church of <hi>Rome,</hi> and ſee whether it be bet<g ref="char:EOLhyphen"/>ter there, they tell us of the obambulation of ſpirits, of the appari<g ref="char:EOLhyphen"/>tions of dead men, whoſe ſouls have come out of the fire of pur<g ref="char:EOLhyphen"/>gatory, a temporary hell; and yet how few amongſt them are brought to true repentance and amendment of life.</p>
+            <p n="6">6. How often do men come from the beds of dying men and
+<pb n="34" facs="tcp:106839:20"/>women, from the laſt words perhaps of good men and women, telling them, they are as full of joy as they can hold, that they deſire to be diſſolved and to be with Chriſt; or from the beds and laſt words of wicked men, who would if it was poſſible, call time again, or deſire to live, though it was but the life of a toad, ra<g ref="char:EOLhyphen"/>ther then dye; and yet how few are thereby wrought upon to re<g ref="char:EOLhyphen"/>pentance unto life? to a repentance never to be repented of?</p>
+            <p n="7">7. Come we to our ſelves, and as a Reverend and learned Au<g ref="char:EOLhyphen"/>thor obſerves;
+<note place="margin">D. <hi>Alleſt.</hi>
+               </note> we, diverſe of us, have been in our own appre<g ref="char:EOLhyphen"/>henſion at deaths door, and have had the proſpect of the other world before our eyes, as it were, and God hath ſaid to us at ſuch a time by his providence, return, return, thou ſhalt not dye, and then our good purpoſes and reſolutions, of dying to our for<g ref="char:EOLhyphen"/>mer ſins, die preſently, and we mend into, and live unto our old fins again: And how then ſhould another mans coming from the dead make us repent, when we our ſelves have come, as it were from the dead, and have not repented?</p>
+            <p>Are theſe things ſo? let's learn then to attend to <hi>Moſes and the Prophets, i. e.</hi> to the holy Scriptures; and that they are more likely and effectuall means to bring ſinners to repentance, then if one came unto them from the dead; and that now we are not to expect Meſſengers or preachers to be ſent unto us from the dead, nor any ſignes, wonders, or Miracles to be wrought, to bring or perſwade us to repent; or to warn us to fly from the wrath to come. Let none be found amongſt you that asketh counſel of the dead, <hi>for all that do ſuch things are an abomination to the Lord,</hi> Deuter. 1811. <hi>To the law, and to the teſtimony; if they ſpeak not according to this Rule, it is becauſe there is no light in them: men muſt not ſeek or ask counſel for the living of the dead, Iſa.</hi> 8 19.20. When King <hi>Saul</hi> in his diſtreſſe, went to the witch of <hi>Endor</hi> to raiſe up <hi>Samuel</hi> from the dead, to enquire of him; the devil ap<g ref="char:EOLhyphen"/>peared to him in <hi>Samuels</hi> mantle, and ſad was the iſſue of that enquiry: and ſhould we deſire and have an apparition from the dead, how ſhould we be aſſured that it was not a cheat put upon us by the devil? and that it was not the devil appeared to us in the likeneſſe of our friend, or of the party we had a minde to con<g ref="char:EOLhyphen"/>ſult withall: Angels, even evil Angels can aſſume bodies for a time, and move them, or elſe make to themſelves aerial bodies, and move them though not inform them, as the ſoul the body. We reade, that Satan can transform himſelf into an Angel of light:
+<pb n="35" facs="tcp:106839:20"/>if ſo, then ſurely into the likeneſſe of a dead man, yea of a dead ſaint.</p>
+            <p>Again, we might probably be more affrighted then edified, by ſuch an apparition; and when the fright was over, we might queſtion, whether there was any ſuch thing or no: whether it was not a dream of our own brain, or a cheat or trick put upon us, by others, or whether there was not ſome miſt caſt before our eyes, and ſome juggle or trick uſed to make us think we ſaw what we did not ſee.</p>
+            <p>Further, the holy Scriptures teach us, that <hi>God hath magnified his word above all his name,</hi> above his creatures and the works of his creation; above his providences, ordinary and extraordinary; in plain engliſh, above miracles, ſignes and wonders: Here in this parable we are taught rather to attend to the holy Scriptures then to one that ſhould come to us from the dead. In the firſt Chap<g ref="char:EOLhyphen"/>ter of the 2d Epiſt. of <hi>Peter,</hi> 17, 18, 19. verſes, the holy Apoſtle teaches us, <hi>to attend unto the word of propheſy,</hi> as more ſure, then a voice from heaven, from the excellent glory, when our bleſſed Saviour was transfigured, upon the holy mount, and had confe<g ref="char:EOLhyphen"/>rence with <hi>Moſes</hi> from the dead, and with <hi>Elijah</hi> from heaven, concerning his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or departure out of this world; and truly this is the only inſtance, in all the Scriptures, of the matter of the diſcourſe of any one that aroſe from the dead, our bleſſed Sa<g ref="char:EOLhyphen"/>viour himſelf excepted: if God had ever intended that we ſhould be taught by men from the dead, ſurely we ſhould have had ſome directions, or inſtructions from thoſe whom the prophets, our Saviour, or the holy Apoſtles raiſed from the dead, but behold <hi>Altum Silentium!</hi> not a word to this purpoſe.</p>
+            <p>And this deep ſilence in this matter, ſpeaks aloud to us, not to make enquiry of the dead, either what we are to do in this, or to expect in the other world. I ſhall adde one teſtimony more in this matter, and that is of St <hi>Paul, Galath.</hi> 1.8, 9. where he ſaith, <hi>that if we or any Angel from heaven preach any other Goſpel unto you, then that which we have preached unto you, let him be accurſed:</hi> where he prefers the Doctrine of the Goſpel of Chriſt, preached by him, and which was taken out of, and proved by <hi>Moſes</hi> and the pro<g ref="char:EOLhyphen"/>phets, before the teſtimony of an Angel from heaven. And if ſo, then ſurely; the Teſtimony of <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets, is more to be attended unto, then that of one that ſhould riſe from the dead: And here we may appeal to our own reaſon,
+<pb n="36" facs="tcp:106839:21"/>and to the reaſon of other men, and ſay, Whether it be more rea<g ref="char:EOLhyphen"/>ſonable to believe God or man judge ye? God, The living God, ſpeaking to us in his holy word by <hi>Moſes</hi> and the prophets, or to a man, ſuppoſe it was <hi>Lazarus</hi> from the dead? Before God gave his people his minde and will in writing, he taught them by dreams and viſions of the night, by the miniſtry of Angels, by ſignes and wonders, but now he hath revealed his whole counſel, neceſſary to our ſalvation and committed it to writing; now that he hath ſealed up the Canon of the Old Teſtarnent by <hi>Ezra,</hi> and of the New by St <hi>John's Revelation;</hi> and now that he hath ratifyed the truth of both, by his broad ſeal of <hi>miracles,</hi> let not the Church nor any particular perſon look after one from the dead, or for ſignes, wonders and miracles. His holy word teacheth us, that now God <hi>commandeth every man, every where to repent,</hi> becauſe he hath appointed a day <hi>to judge the world in righteouſneſse by Jeſus Chriſt, whom he hath ordained;</hi> whereof he hath given ſufficient proof, or evidence to all men, in that he <hi>raiſed him from the dead, Acts.</hi> 17.30, 31. I confeſſe it hath been the guiſe and faſhion of the world to look after, and long for Miracles. <hi>Show us a ſigne, and what ſigne ſheweſt thou?</hi> ſaid the Jews to Chriſt: notwithſtanding all the wonders and miracles that he had wrought amongſt them, yea, the devil himſelf, tempted our bleſſed Saviour in the wil<g ref="char:EOLhyphen"/>derneſſe to ſhew a ſigne, to work a miracle, <hi>if thou be the Son of God command that theſe ſtones be made bread.</hi> But our Lord and Saviour would not gratifie the devils curioſity, nor work a won<g ref="char:EOLhyphen"/>der at his beck or deſire; he would not caſt ſuch a pearl before ſuch a ſwine; beſides, had our Saviour wrought that miracle in that place, and at that time, the devil might have denyed it; or if not, our Saviours enemies poſſibly might have been tempted by the devil to blaſpheme, as ſome times they did afterwards, and to ſay, he had done it by the power of the devil.</p>
+            <p>We are apt to think, that if one came from the dead, or that we ſaw ſignes and wonders, then we ſhould believe, then we ſhould repent; but alas! alas! how often hath God ſhewed ſignes, and wrought wonders for nations and perſons, and yet they have re<g ref="char:EOLhyphen"/>mained impenitent and diſobedient.</p>
+            <p>
+               <hi>Pharaoh,</hi> and the <hi>Egyptians</hi> had many ſignes and wonders wrought before their eyes; and yet their fooliſh hearts were har<g ref="char:EOLhyphen"/>dened; yea, ſuch madneſſe was in their hearts, that they purſu<g ref="char:EOLhyphen"/>ed <hi>Iſrael</hi> into the <hi>Red ſea,</hi> and were drowned in the ſea. The <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi>
+               <pb n="37" facs="tcp:106839:21"/>for whoſe ſake God wrought ſuch wonders in <hi>Egypt</hi> and in the <hi>Red-ſea,</hi> and whom God led and fed by a Miracle in the Wilderneſſe with Angels food, bread from heaven, and with water out of the rock fourty years, yet they murmured, and tempted God, and many a time rebelled they againſt his word; ſo that ſix hundred thouſand of them, their carcaſes fell in the wil<g ref="char:EOLhyphen"/>derneſſe, and they could not enter into the Land of <hi>Canaan,</hi> be<g ref="char:EOLhyphen"/>cauſe of unbelief: Well, come we to their children whom God Miraculouſly preſerved; brought into and ſettled in the good land of <hi>Canaan;</hi> and we ſhall finde, that they or their children, ſoon forget God their Saviour; whereas God, the Lord of hoſts, did ſeveral times fight for <hi>Iſrael</hi> with his hoſts; his Angels; his ſtars, his clouds, againſt their enemies; yet ever and anon we finde them even fighting againſt God: when our Saviour Chriſt came into the world, entred upon his publique Miniſtry and of<g ref="char:EOLhyphen"/>fice of Mediatour, he manifeſted forth his glory many ways, in ſundry miracles wrought by him, in the ſight of the Jews, and were they kindly and ſavingly wrought upon? were they war<g ref="char:EOLhyphen"/>ned? were they perſwaded? did they, the body of them, all re<g ref="char:EOLhyphen"/>pent? do we not rather finde, that when our Saviour raiſed <hi>Lazarus</hi> from the dead, and by reaſon thereof, many believed on him, that therefore their chief prieſts an Rulers, the phariſees, ſought to kill Chriſt, and <hi>Lazarus</hi> both? yea, when they had crucified the Lord of glory, and he aroſe from the dead, the third day, the greateſt Miracle, that ever the ſun ſaw, did they there<g ref="char:EOLhyphen"/>upon believe and repent? no, no, they ſeek to hide this miracle, and they give money to the ſouldiers to ſay, his diſciples came by night and ſtole him away. Of old, <hi>Balaam</hi> was ſtopped by an Angel from heaven, and God opened the mouth of his Aſs, ſo that he ſpake with mans voyce, and reproved the madneſſe of the pro<g ref="char:EOLhyphen"/>phet, yet <hi>Balaam</hi> was not converted King <hi>Jeroboams</hi> hand was withered, and reſtored, by a miracle, and yet he continued his falſe worſhip at <hi>Dan</hi> and <hi>Bethel,</hi> and would not ſuffer the peo<g ref="char:EOLhyphen"/>ple to worſhip at <hi>Jeruſalem.</hi> King <hi>Ahab</hi> ſaw that great wonder, <hi>fire came from heaven to conſume the ſacrifice,</hi> at the prayers of <hi>Elijah;</hi> and yet for ought we know, was never ſavingly wrought upon: Yea, that which is a wonder to think of it, good men who have ſeen wonders and miracles, have not been ſo good as they ſhould be, but after thoſe things have for a time turned afide, like a broken bow. Good King <hi>Hezekiah,</hi> that was cured of the
+<pb n="38" facs="tcp:106839:22"/>plague, by direction of the Prophet, after he had received the ſentence of death in himſelf, yet his heart was lifted up, and he did not render unto the Lord anſwerable to what he had received. <hi>Ionah</hi> the prophet was miraculouſly preſerved in the belly of the whale, three days and three nights, and yet afterwards was ſo peeviſh and paſſionate as to tell God to his face, that <hi>he did well to be angry even unto death.</hi> Go we higher, <hi>Noah</hi> was ſaved by Mi<g ref="char:EOLhyphen"/>racle in an Ark, without ſayls, Rudders, Anchors or Pilot, when the world was drowned, and yet was overtaken ſoon after, with drunkenneſſe. <hi>Lut</hi> was ſaved miraculouſly from fire, when <hi>So<g ref="char:EOLhyphen"/>dons</hi> and <hi>Gomorrah</hi> and the other Cities were burned, and yet it was not long, before he became guilty of drunkenneſſe and in<g ref="char:EOLhyphen"/>ceſt. By theſe inſtances national and perſonal, we may conclude, that ſignes wonders and miracles are not always, ſuch certain, powerful, and effectual means, to bring ſinners to repentance, or to make bad men good, or good men better, as men are apt to imagine.</p>
+            <p>But what ſhall we ſay then to that of our Saviour,
+<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> 
+               <hi>Matth.</hi> 11.21.23. <hi>Wo to thee</hi> Corazin, <hi>wo unto thee</hi> Fethſaida, <hi>for if the mighty works which were done in you had been done in</hi> Tyre <hi>and</hi> Zi<g ref="char:EOLhyphen"/>don <hi>they would have repented long ago in ſackcloth and aſhes?</hi>
+            </p>
+            <p>
+               <hi>Grotius</hi> will have all theſe things to be ſaid by our Saviour not
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to ſay, it is reaſonable to think, that thoſe miracles would have been ſufficient, to pro<g ref="char:EOLhyphen"/>duce ſuch effects, even repentance, and that in ſackcloth and aſhes, as <hi>Jonahs</hi> preaching did among the <hi>Ninevites:</hi> again, although miracles might probably have been efficatious to bring gentile ſinners to repentance; yet the Jews were ſo perverſe, ob<g ref="char:EOLhyphen"/>ſtinate, and rebellious, they had <hi>Moſes</hi> and the Prophets, and therein ſufficient motives to repentance, (namely Gods com<g ref="char:EOLhyphen"/>mands, his promiſes, and threatnings, even heaven and hell ſet before them, and thoſe things ratifyed formerly by miracles) ſo that if they would not be wrought upon by all this, it would be in vain to ſend unto them a meſſenger, or preacher from the dead: miracles (ſaith the Apoſtle) are for them that believe not, and not for them that believe, when there is no propheſy, there miracles probably may prevail, but thoſe within the Church who have had <hi>Moſes</hi> and the prophets, and propheſy confirmed by mi<g ref="char:EOLhyphen"/>racles long ago, if they believe not, if they repent not, they themſelves are to be looked upon us prodigies and wonders; ſo
+<pb n="39" facs="tcp:106839:22"/>far are they from reaſonably expecting of miracles, to turn and convert them: If <hi>Moſes</hi> and the prophets be not of credit with <hi>Dives</hi> his brethren, being Jews, to perſwade them to amend and repent, neither could one, and that one <hi>Lazarus,</hi> if he went unto them from the dead.</p>
+            <p>The Uſes or inferences from the premiſes may be either for di<g ref="char:EOLhyphen"/>rection or information of our ſelves, or for confutation of others, that are in errour, and for exhortation.</p>
+            <p>1ſt. Uſe, Hence we may be informed,
+<note n="1" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note> that if we muſt attend to <hi>Moſes</hi> and the prophets, and that thoſe believed and obeyed, are means ſufficient to bring us to repentance and ſalvation, that then by thoſe, as the wife men by a Star, we may be directed unto Chriſt: our bleſſed Saviour teſtified as much, <hi>John.</hi> 5.46.47. <hi>Hadye believed</hi> Moſes, <hi>ye would have believed me, for he wrote of we; but if ye believe not his writings, how ſhall ye believe my words? Moſes</hi> wrote of Chriſt, <hi>Gen.</hi> 3.15. Namely, that <hi>the ſeed of the woman ſhould break the ſcrpents head;</hi> and <hi>Deut.</hi> 18.15.18. <hi>the Lord thy God will raiſe up unto thee a prophet from the midſt of thee, of thy brethren like unto me, unto him ye ſhall hearken:</hi> This was ſo well known, that <hi>Philip</hi> finding <hi>Nathanael,</hi> ſaith unto him, as we reade, <hi>John.</hi> 1.45. <hi>We have found him, of whom</hi> Moſes <hi>in the law, and the Prophets did write, Jeſus of Nazareth; the ſon of Joſeph:</hi> As for the prophets, they foretold him, as the <hi>Branch of the Lord, Iſa.</hi> 4.2. as <hi>the prince of peace;</hi> ſo <hi>Iſaiah,</hi> chap. 9.6. as <hi>the deſtre of all nations, Haggai</hi> Chap. 2.7. As <hi>Meſſiah the prince,</hi> ſo <hi>Dani<g ref="char:EOLhyphen"/>el,</hi> Chap. 9.25. as <hi>the ſun of righteouſneſse with healing in his wings,</hi> ſo <hi>Malachi</hi> Chap. 4. ver. the 2d: the two Teſtaments are joynt witneſſes of one and the ſame great truth; namely, that Jeſus is the <hi>Chriſt,</hi> the <hi>Meſſiah,</hi> the Saviour that was to come into the world.</p>
+            <p n="2">2. Uſe, hence we may learn to make the written word of God,
+<note place="margin">2 <hi>
+                     <g ref="char:V">Ʋ</g>ſe. Of Inform.</hi>
+               </note> (as <hi>David</hi> did) <hi>a light unto our feet, and a lanthorn to our paths;</hi> and not to leave <hi>Moſes</hi> and the Prophets, pretending to follow the light within us, as ſome do; the light within us, our own rea<g ref="char:EOLhyphen"/>ſon; that's a dim and imperfect light, without revelation; by this light, we ſhould never have diſcovered the myſteries of the holy Trinity, the Myſtery of the two natures in Chriſt, nor, our ſalvation by Faith in him: by this we could not have diſcovered all ſins, nor have known all neceſſary truths; nor have been con<g ref="char:EOLhyphen"/>vinced of all duties: yea, it might come to paſſe, that leaving the
+<pb n="40" facs="tcp:106839:23"/>holy Scriptures, <hi>Moſes</hi> and the Prophets; and the writings of the holy Evangeliſts, and Apoſtles, to follow the dictates of our own erroneous conſciences, we might be led, as thoſe are, they ſay, that follow an <hi>ignis fatuus,</hi> out of our right way into boggs and precipices; <hi>Thus, they that ſhall kill you,</hi> (ſaith our Saviour) ſhall think <hi>they do God good ſervice:</hi> And the holy Apoſtle <hi>Paul</hi> tells us; <hi>I verily thought, that I ought to do many things contrary to the name of Ieſus of Nazareth; which things I alſo did in Ieruſa<g ref="char:EOLhyphen"/>lem, Acts.</hi> 26.9, 10. 'Tis true, that we are to follow the gui<g ref="char:EOLhyphen"/>dance of our conſciences, but our conſciences are to be inlightned and guided by the directions of God in his word: Our conſcien<g ref="char:EOLhyphen"/>ces are but Gods deputyes and Lieutenants, and whether it be fit to obſerve the ſervant or Deputy rather then to obey the will of the ſupreme or ſoveraign Lord, judge ye.</p>
+            <p>Again, hence we may learn to ſtudy, and follow the directions of the holy Scriptures of the old and New Teſtarnent, rather then pretend to impulſes, providences, viſions and Revelations for what we do: <hi>to the law to the teſtimony;</hi> by this our opinions, and practices yea, our perſons ſhall be juſtified, and by this word they ſhall be condemned: <hi>heaven and earth ſhall paſſe away</hi> (ſaith our Saviour) <hi>but not aniota or tittle of the law ſhall periſh.</hi>
+            </p>
+            <p n="3">3. Uſe,
+<note n="3" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe of Informat.</hi>
+               </note> Hence learn not to be ſeduced or not to be drawn away from the true Proteſtant Religion founded upon the doctrine of <hi>Moſes and the Prophets,</hi> (i. e. the holy Scriptures) unto the Ro<g ref="char:EOLhyphen"/>miſh Religion, upon pretence of Miracles, which they ſay are wrought amongſt them, for,</p>
+            <p n="1">1. Our bleſſed Saviour foretold, <hi>Math.</hi> 24.24. <hi>that men ſhould ariſe doing ſuch great wonders</hi> in imitation of himſelf, <hi>that they ſhould deceive, if it were poſſible, the very elect.</hi> And St. <hi>Paul</hi> tells us in his 2d Epiſtle to the <hi>Theſſalonians</hi> the 2d Chap. verſe the 9th. that <hi>the ſon of perdition ſhould ariſe, ſhould appear with all power, ſignes and lying wonders:</hi> So that Antichriſt does pretend to no<g ref="char:EOLhyphen"/>thing but what our Saviour Chriſt and his Apoſtle foretold.</p>
+            <p n="2">2. The protended Miracles of the <hi>Church of Rome</hi> are wrought and brought to confirm a Doctrine contrary to <hi>Moſes and the pro<g ref="char:EOLhyphen"/>phets,</hi> that is, to the holy Scriptures, and they being already ratifi<g ref="char:EOLhyphen"/>ed by many and great Miracles, true Miracles, 'tis certain, that theſe pretended miracles brought to confirm a lye, are deluſions and impoſtures.</p>
+            <p n="3">3. The Ancient fathers and ſome of the moſt learned men of
+<pb n="41" facs="tcp:106839:23"/>the <hi>Church of Rome</hi> of latter times, deny the continuance of the power of Miracles in the Church after that the Chriſtian Religion had been ſo generally received, believed and embraced in the world: for this the Reverend Dr <hi>Stilling fleet</hi> in a late piece againſt the Papiſts, quoted St. <hi>Chryſoſtome,</hi> St. <hi>Auſtin, Toſtatus</hi> upon <hi>Le<g ref="char:EOLhyphen"/>viticus,</hi> chap. 9.9.14. <hi>Stella</hi> upon <hi>Luke,</hi> Chap. 11 <hi>v.</hi> 29. and <hi>Eraſmus</hi> upon the firſt Epiſtle to the <hi>Corinthians</hi> the 13, Chap. and 13 verſe.</p>
+            <p n="4">4. If the power of Miracles ſhould be continued in the Church, moſt probably it would be exerted for the converſion of infidels, and conſequently the gift of languages ſhould be given to them, now a days who are ſent to preach to the <hi>Indians,</hi> or other <hi>heathens;</hi> but we have no ſufficient or credible witneſſe, or teſtimony, that thoſe preachers of late times, or for many years have had or ever have been endued with the gift of languages.</p>
+            <p>Again, doth <hi>Abraham</hi> in heaven direct, to <hi>Moſes and the pro<g ref="char:EOLhyphen"/>phets</hi> as above-ſaid;
+<note n="2" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe of Confutat.</hi> Coufut. 1. Of the doctrin of the Papiſts.</note> then this may ſerve to confute the Doctrine and practice of the <hi>Church of Rome,</hi> their Doctrine in exalting the teſtimony of the preſent Church above the Authority of the holy Scriptures, the judge and touch-ſtone of the Church. Our Savi<g ref="char:EOLhyphen"/>our ſaid to the Jews; <hi>you have one that accuſeth you, even</hi> Moſes <hi>in whom ye truſt, John.</hi> 5.45. 'tis obſervable, that <hi>Abraham</hi> takes no notice of any infallible judge or interpreter of <hi>Moſes and the Prophets:</hi> In this the Papiſts, out-wit the ſcribes and Phariſees, when they diſputed with Chriſt, yea, they out-do and go beyond the devil himſelf; that old ſubtil ſerpent, when he tempted our Saviour: for when our Saviour quoted Scripture, neither the phariſees, nor the devil, ever thought of replying: I, but who muſt interpret the Scripture? who muſt be judge? it belongs not to thee to reade them, much leſſe to interpret Scripture; this belongs to the Jewiſh Church; who is the only ſupream judge of Scriptures and of controverſies.</p>
+            <p>Again, hence we may ſee,
+<note place="margin">Confut. 2. Of the practiſe of the Papiſts.</note> that the Papiſts erre in withholding the Scriptures from the Laity: what an unreaſonable and unrigh<g ref="char:EOLhyphen"/>teous thing is it, that Gods children muſt not be permitted to reade their fathers will, without the licence of man firſt had and obtained for their ſo doing? <hi>Abraham</hi> ſaith, <hi>they have</hi> Moſes <hi>and the Prophets let them bear them.</hi>
+            </p>
+            <p n="3">3. Hence then we may be exhorted greatly to prize and value the Scriptures, the Bible, as the book of books,
+<note n="3" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe, Of Exhortat. Exhort.</hi> 1.</note> as a cabinet of moſt rich and precious jewels, as a fountain of water of life, as
+<pb n="42" facs="tcp:106839:24"/>a fiery pillar to lead us through this wilderneſſe to <hi>Canaan.</hi>
+            </p>
+            <p n="2">2. And let us bleſſe and praiſe God for his word;
+<note place="margin">
+                  <hi>Exhor.</hi> 2.</note> how highly did <hi>David</hi> eſteem the holy Scriptures? how doth he magnifie them? and yet he had but a third part of what we have now: and if <hi>Moſes</hi> applauded the Jews happineſſe, when he had finiſhed his <hi>Pentateuch,</hi> if he accounted the law, as the inheritance of the congregation of <hi>Iſrael;</hi> and as 'tis in the Pſalm, <hi>he hath not dealt ſo with any Nation, neither hath the heathen the</hi> knowledge of his law; how ſhould we prize, and praiſe and bleſſe God for the law and Goſpel, the whole Canon of the Old and New Teſtament: and let's know this, that our beſt way of praiſing. God for the Scrip<g ref="char:EOLhyphen"/>tures, will be to reade, ſtudy, meditate on them, but above all to conform our hearts, lips, lives, to the rules and precepts con<g ref="char:EOLhyphen"/>tained in them; doubtleſſe obedience to the law is the beſt way to honour both the law-giver, and the law.</p>
+            <p>To draw towards a concluſion; From the text and context, the parable of <hi>Dives</hi> and <hi>Lazarus,</hi> we may learn many uſeful and profitable leſſons ſuch as theſe.</p>
+            <p n="1">1. That rich men muſt give an account how they have laid out their riches: rich men are ſtewards, and it is requiſite in ſtewards, that they be found faithful; they muſt not lay out their Lords mo<g ref="char:EOLhyphen"/>ney upon themſelves, their own backs, and bellyes; and let the poor, ſuch as <hi>Lazarus,</hi> their fellow-creatures, and fellow<g ref="char:EOLhyphen"/>ſervants, and their own brethren to ſtarve at their gates, <hi>manus pauperis the ſaurus Chriſti.</hi> And rich men muſt caſt into Chriſts trea<g ref="char:EOLhyphen"/>ſury of their abundance.</p>
+            <p n="2">2. That rich men muſt be careful, not only not to hurt the poor, but to relieve them: they muſt not be <hi>Dives's,</hi> to do good to themſelves only, but like the good <hi>Samaritan,</hi> do good unto them that are in neceſſity and in extremities. <hi>Dives</hi> is blamed and condemned, not for taking away from the poor, by oppreſ<g ref="char:EOLhyphen"/>ſion or injuſtice; but for not communicating to poor <hi>Lazarus</hi> in his neceſſity, in his extremity.</p>
+            <p n="3">3. That men may ſin in the miſuſe of lawful things, of outward comforts and enjoyments; purple, fine lynnen, delicate fare, Muſick, were all lawful to be uſed, but <hi>Dives</hi> did not uſe them lawfully, <hi>In licitis perimus omnes:</hi> we muſt not uſe our lawful en<g ref="char:EOLhyphen"/>joyments, unſeaſonably nor exceſſively, nor make every day a Feaſt-day. We muſt not forget the afflictions of <hi>Joſeph</hi> in the pri<g ref="char:EOLhyphen"/>ſon, nor themiſeries and neceſſities of <hi>Lazarus</hi> at our Gates.</p>
+            <p n="4">
+               <pb n="43" facs="tcp:106839:24"/> 4. That good men may have evil things in this life, and evil men good things: <hi>Dives</hi> had his good things here, and <hi>Lazarus</hi> his evil things: I know <hi>this is a bard ſaying, who can bear it?</hi> This is it that hath troubled heathen philoſophers; Jewiſh Rabbies, and the Doctors of the Chriſtian Church, yea, that it was <hi>malis bene</hi> and <hi>bonis male,</hi> hath been a trouble to ſome of the beſt men in the Scriptures, to <hi>Job,</hi> to <hi>Jeremy,</hi> to <hi>David,</hi> to <hi>Habakkuk;</hi> but let's not judge of Gods works till he hath finiſhed them; wait but a while and thou ſhalt ſee a <hi>Dives</hi> in hell, and a <hi>Lazarus</hi> in <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> boſome, and then God will be cleared and juſtified, and all the world will become ſilent before God.</p>
+            <p n="5">5. That ſome men are more kinde to their dogs then to the poor; ſome there are who take the childrens bread, and give it to the dogs, but grudge to give the dogs portion to the children; to ſuch I ſhould commend the Example of <hi>Amideus</hi> Duke of <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> ſometimes choſen Pope, but too good a man for ſo bad an office, who ſhewed a hall full of poor people fed by him daily, when it was expected, he ſhould have ſhewed his hounds, and ſaid, theſe are the hounds, wherewith I hunt, after the Kingdom of Heaven.</p>
+            <p n="6">6. That <hi>Lazarus</hi> received more kindneſſe from <hi>Dives</hi> his dogs, then from himſelf: <hi>Humaniores</hi> (ſaith one) <hi>fuerunt canes homini<g ref="char:EOLhyphen"/>bus.</hi> The dogs were more hoſpitable then the maſter or his ſer<g ref="char:EOLhyphen"/>vants: and yet (ſaith one) <hi>Canis eſt latrare, peregrinos mordere, abigere Hoſpites,</hi> 'tis the property of dogs to bark at, to bite ſtrangers, and to drive them away; not to ſawn on gueſts that are ſtrangers.</p>
+            <p n="7">7. That like maſter, like ſervants; no man gave unto him; the maſter would not give him a bit from his table, and the ſervants would none of them give him a crumb that fell from the table.</p>
+            <p n="8">8. That even <hi>Dives</hi> in hell ſeems to have more Charity and kindneſs to his brethren, eſpecially to their ſouls, then many men on earth and in the boſome of the Church; he would have uſed means to ſave his brethrens ſouls, and now many, do what they can, in a manner, to damn their own and their brethrens fouls alſo.</p>
+            <p n="9">9. That there are rewards and puniſhments after this life; there's a future Eſtate of happineſs or miſery, for rich and poor; there's an <hi>Abrahams</hi> boſome for ſome, and hell-torments for o<g ref="char:EOLhyphen"/>thers; thoſe that have done good and ſuffered evil things here, ſhall
+<pb n="44" facs="tcp:106839:25"/>be comforted, and thoſe who have done evil things, and enjoyed good things here, they ſhall be tormented.</p>
+            <p n="10">10. That ſome of the Children of <hi>Abraham</hi> finde no place in the boſome of <hi>Abraham: Dives</hi> cal'd <hi>Abraham</hi> father, and <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> cal'd <hi>Dives</hi> ſon, but yet <hi>Dives</hi> had his place and portion in hell.</p>
+            <p n="11">11. That rich men muſt expect mercy in the other world accor<g ref="char:EOLhyphen"/>ding as they have ſhewed mercy to the poor in this: <hi>he that giveth to the poor lendeth unto the Lord, and the Lord will repay him his own again with uſury:</hi> Giving to the poor is but ſowing of feed, and in due time <hi>they that ſow plentifully ſhall reap plentifully,</hi> ſhall I ſay, thirty or ſixty, yea, I dare ſay an hundred-fold, even in the world to come life everlaſting.</p>
+            <p n="12">12. That the way to eſcape hell, and attain heaven, is to hear<g ref="char:EOLhyphen"/>ken to, to obey the holy Scriptures: theſe are they that ſhew unto us the way of ſalvation, the only way of peace and reconciliation with God, and remiſſion of ſins, namely, repentance towards God, and faith in our Lord Jeſus Chriſt. Theſe, theſe are they that are <hi>as a voice behinde us,</hi> or within us, <hi>ſaying, this is the way walk in it,</hi> when that which is holy, juſt and good, is propoſed to us: But when we are tempted unto evil, theſe are unto us as the Angel to St. <hi>John,</hi> ſaying, <hi>ſee thou do it not;</hi> Let us not in the leaſt queſtion the divine authority of the holy Scriptures, either of the Old or New teſtament; both are confirmed by the exerting of ſu<g ref="char:EOLhyphen"/>pernatural power in miracles, and of ſupernatural wiſdom and knowledge in fulfilling of propheſies: and foraſmuch as <hi>Abraham</hi> in heaven ſends us to <hi>Moſes and the Prophets,</hi> and even Chriſt him<g ref="char:EOLhyphen"/>ſelf a greater then. <hi>Abraham</hi> appeals to Scripture, proves by Scri<g ref="char:EOLhyphen"/>pture, (though he received the ſpirit without meaſure,) and re<g ref="char:EOLhyphen"/>ſolves as it were his own authority into the divine authority of the Old Teſtament.</p>
+            <p n="13">13. And again, that if one of the Teſtaments be true, neither of them can be falſe; let's know and believe all that is written in the Law of <hi>Moſes,</hi> and in the <hi>Prophets,</hi> and in the Pſalms, concerning Chriſt; and all that is written in the Goſpel in the <hi>Acts,</hi> in the <hi>Epiſtles</hi> and the <hi>Revelation</hi> concerning Chriſt, and Chriſti<g ref="char:EOLhyphen"/>ans, our Saviour, or our ſelves; and let's not only hear the Scri<g ref="char:EOLhyphen"/>ptures but do them, ſo that we may be bleſſed in the deed. And when we hear any new or ſtrange doctrines, let's be noble, like the <hi>Bereans,</hi> and ſearch the Scriptures to ſee, whether things be ſo
+<pb n="45" facs="tcp:106839:25"/>or no as theſe men teach. Let's try opinions; doctrines and acti<g ref="char:EOLhyphen"/>ons; our own and others, by this touchſtone: Let's weigh them in this ballance of the ſanctuary, and accordingly judge them. And that I may ſpeak a word in ſeaſon, both as to the text and the oc<g ref="char:EOLhyphen"/>caſion, and that ſome good account may be given of this days con<g ref="char:EOLhyphen"/>courſe, let's all of us labour to ſhew forth our faith by our works, and as we hold, that our faith juſtifies our perſons before God; ſo let our good works juſtifie our faith before men. They are like the hand on the dial of a Clock; which ſhews how it goes, al<g ref="char:EOLhyphen"/>though it doth not cauſe it to move. Lets feed the Hungry, Clothe the Naked, make our ſelves friends of the mammon of unrighte<g ref="char:EOLhyphen"/>ouſneſſe: that when we fail, we may be received into everlaſting habitations. Let's be confident that our cruiſe of Oyl, ſhall ne<g ref="char:EOLhyphen"/>ver fail ſo long as we pour it out in theſe empty veſſels; and that one penny laid out upon Gods poor, upon Chriſts brethren, will redound more to our account at the great day, then many thou<g ref="char:EOLhyphen"/>ſands laid up in our Coffers, or laid out upon our vain delights, and pleaſures; and ſhould the Lady of this Manour ariſe from the dead, this day, I dare ſay, ſhe could teſtifie, that the widows mite, ſo (as I take it) ſhe called the donation and benefaction we now commemorate, was of more avail and advantage to her then the thouſands ſhe laid up in her treaſury; therefore whilſt we have opportunity, <hi>let us do good unto all men, eſpecially to them who are of the houſhold of Faith, to the bretheren of Chriſt: and what ſoever good we finde in our hearts to do, let's do it with all our might, for there is no wiſedome nor counſel in the grave, whither we are going.</hi>
+            </p>
+            <p>Let's beg of God, that we may not have our good things in this life, and our evil in the other, that we may not be like <hi>Dives,</hi> of the number of thoſe worldlings, who have their portion in this life, as the Pſalmiſt ſpeaks. Or as thoſe fools who lay up for them<g ref="char:EOLhyphen"/>ſelves treaſures on earth and are not rich towards God.</p>
+            <p>And let's manifeſt that our treaſures are in heaven, becauſe there are our hearts alſo: let's <hi>ſet our affections on things above, and not on things on the earth,</hi> conſidering God has made the earth to ſet our feet upon, not to ſet our hearts upon: let us not be like blinde Moles, ever rooting, digging in the Earth, living here, as in our proper Element: for when a few years, perhaps weeks or days are gone and death comes, our eyes ſhall be opened, as the Na<g ref="char:EOLhyphen"/>turaliſts ſay, the eyes of the Moles are when they come to die; and then we ſhall ſee clearly, that we have laboured in vain; <hi>in
+<pb n="46" facs="tcp:106839:26"/>vain have we riſen early, gone to bed late,</hi> eaten the bread of care. fulneſſe, for Riches Miſer-like hoarded up, or Epicure-like laid out upon our ſelves, profit not in the day of death.</p>
+            <p>To conclude all, let's not ſuffer any poor <hi>Lazarus</hi> to ſtarve at our gates, for want of crumbs; and let none of us, that are mi<g ref="char:EOLhyphen"/>niſters, ſuffer any poor ſoul for whom Chriſt died, to ſtarve at the gates of the Temple for want of our breaking to them the bread of life: we are all by our profeſſion children of <hi>Abraham:</hi> now then let us do the work of <hi>Abraham:</hi> let's walk in the ſteps of <hi>Abraham;</hi> let's be rich in faith, full of ſelf-denyal, full of good works, chariry, Hoſpitality; let's go out, and invite ſtrangers on occaſion, as he did, and then he will not be aſhamed to be cal<g ref="char:EOLhyphen"/>led our father, nor unwilling to take our ſoul into his boſome: yea, let's imitate <hi>Lazarus,</hi> let's make God our help, our truſt, ſo he did; and ſo his name (as the name <hi>Eleazar</hi>) imports. And let's patiently bear all the evils that God lays on us himſelf, or ſuffers man to lay on us in this world: and then when we die, God will ſend his Angels to do the like office for us, which they did for <hi>Lazarus,</hi> even to carry our ſouls into <hi>Abrahams</hi> boſome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge. 3. line 12. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> reade <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 8. l. 1. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> p. 20. l. 6. for <hi>ſumus</hi> r. <hi>fumus.</hi> p. 25. l. 2. for <hi>which</hi> r. <hi>who</hi> p. 15. l. 8. for <hi>powrs</hi> r. <hi>pours.</hi> p. 27. l. 3. for <hi>them</hi> r. <hi>him.</hi> p. 3<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l. 32. for <hi>any</hi> r. <hi>an.</hi> p. 37. l. 22. for <hi>an</hi> r. <hi>and.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106839:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
